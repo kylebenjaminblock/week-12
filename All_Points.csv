@@ -1,0 +1,894 @@
+newId,SP,Region,RCRegion,Province,Residence,Gender,Dis,District,VillageNeighborhood,Lon,Lat,wave,Urbanity,Village,UrbanRuralStatus,UrbanRuralStatus14,DariVillage,Kishstartnumber,Urban,Metro,district_TAF_2015,Name,client
+1181546,1546,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,Nawi korta Lagan,64.375198,31.589759,18,,,,,,,,,,,ANQAR
+1181547,1547,4. South Western,6. RC S. West,27. Helmand,2. Town,F,345,Lashkar Gah town,Kamp Mahajerin,64.364727,31.597435,18,,,,,,,,,,,ANQAR
+1181548,1548,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,De Nawe Mahlimino Numri,64.382622,31.597618,18,,,,,,,,,,,ANQAR
+1181549,1549,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,,,,18,,,,,,,,,,,ANQAR
+1181550,1550,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,,,,18,,,,,,,,,,,ANQAR
+1181551,1551,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,,,,18,,,,,,,,,,,ANQAR
+1181552,1552,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,,,,18,,,,,,,,,,,ANQAR
+1181553,1553,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,WAKIL GHULAM NABI KALAY,64.28636,31.64913,18,,,,,,,,,,,ANQAR
+1181554,1554,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,TOOR KHAN,64.28283,31.60869,18,,,,,,,,,,,ANQAR
+1181555,1555,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,HAZAR HA SAYID ABAD,64.20357,31.57111,18,,,,,,,,,,,ANQAR
+1181556,1556,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,HAJI BARUK KALAY,64.14012,31.57572,18,,,,,,,,,,,ANQAR
+1181557,1557,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,JAW DARAZ,64.92901000000001,32.47267,18,,,,,,,,,,,ANQAR
+1181558,1558,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KARAIZ DAHI BABA,64.94511,32.37074,18,,,,,,,,,,,ANQAR
+1181559,1559,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,SHAIKH ZAI,64.97958,32.34327,18,,,,,,,,,,,ANQAR
+1181560,1560,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KARAIZ GHAZI,64.99485,32.36146,18,,,,,,,,,,,ANQAR
+1181561,1561,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,GHACHZAR YA TAL,65.02211,32.41231,18,,,,,,,,,,,ANQAR
+1181562,1562,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,AHANGARAN,65.02054,32.33737,18,,,,,,,,,,,ANQAR
+1181563,1563,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah rural,MIRZA KALAY,64.32601,31.66133,18,,,,,,,,,,,ANQAR
+1181564,1564,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah rural,KAMP MUKHTAR MALIK NASULLAH,64.36122,31.63378,18,,,,,,,,,,,ANQAR
+1181565,1565,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,KHAKASH KARAIZ,64.83299,32.0077,18,,,,,,,,,,,ANQAR
+1181566,1566,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,RAGHALAGH,64.8892,31.9772,18,,,,,,,,,,,ANQAR
+1181567,1567,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,CHAH BABUR,,,18,,,,,,,,,,,ANQAR
+1181568,1568,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,KARIM KARAIZ,64.85207,31.99283,18,,,,,,,,,,,ANQAR
+1181569,1569,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,KARAIZ NEDAMAT YA KARAIZ  A. HAMID,64.81128,32.39115,18,,,,,,,,,,,ANQAR
+1181570,1570,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,YAKA KHAK,64.77552,32.34668,18,,,,,,,,,,,ANQAR
+1181571,1571,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,FASL SHAH JOWI,64.79065,32.3212,18,,,,,,,,,,,ANQAR
+1181572,1572,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,ZUBAIR KARAIZ,64.88096,32.30026,18,,,,,,,,,,,ANQAR
+1181573,1573,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,SAR GHAT,64.54633,32.81578,18,,,,,,,,,,,ANQAR
+1181574,1574,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,CHAR BAND,64.60185,32.70507,18,,,,,,,,,,,ANQAR
+1181575,1575,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,WACHA QOLBA,64.68259000000001,32.68294,18,,,,,,,,,,,ANQAR
+1181576,1576,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,AKBAR KHAN NAWA,64.71742,32.72799,18,,,,,,,,,,,ANQAR
+1181577,1577,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Marjah,MARJA BLOCK 3-A,64.10952,31.43325,18,,,,,,,,,,,ANQAR
+1181578,1578,4. South Western,6. RC S. West,27. Helmand,1. Village,M,417,Marjah,MARJA BLOCK 2-B,64.12148000000001,31.46088,18,,,,,,,,,,,ANQAR
+1181579,1579,4. South Western,6. RC S. West,27. Helmand,1. Village,M,351,Washer,PAYA WAK,63.95306,32.27418,18,,,,,,,,,,,ANQAR
+1181580,1580,4. South Western,6. RC S. West,27. Helmand,1. Village,M,351,Washer,TOOT SHAH,63.82576,32.22437,18,,,,,,,,,,,ANQAR
+1181581,1581,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,PAYEN QALA,64.76749,31.95478,18,,,,,,,,,,,ANQAR
+1181582,1582,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,BARWAN,64.72492,31.90192,18,,,,,,,,,,,ANQAR
+1181583,1583,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,HAJI ABDUL RAHIM KALAY,64.75318,31.89339,18,,,,,,,,,,,ANQAR
+1181584,1584,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,NAZERAN KALAY,,,18,,,,,,,,,,,ANQAR
+1181585,1585,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,SARDAR,64.60457,31.82605,18,,,,,,,,,,,ANQAR
+1181586,1586,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,KHAK BADAN,64.58687999999999,31.81001,18,,,,,,,,,,,ANQAR
+1181587,1587,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,MOHAMMAD ZAI,64.72239,31.87908,18,,,,,,,,,,,ANQAR
+1181588,1588,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,DIHMAZAG SHARQI,64.55604,31.81024,18,,,,,,,,,,,ANQAR
+1181589,1589,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,DAWUD SHAH KHAIL,64.32062000000001,31.37788,18,,,,,,,,,,,ANQAR
+1181590,1590,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,KHALICH MALIM QASIM KHAN SAYYID NOOR KHAN WA ABDUL RASHID KHAN,64.28809,31.38238,18,,,,,,,,,,,ANQAR
+1181591,1591,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,SAYYIDAN,64.31408,31.5049,18,,,,,,,,,,,ANQAR
+1181592,1592,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,GUL AGA FAQIRAN,64.23253,31.38395,18,,,,,,,,,,,ANQAR
+1181593,1593,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,SHAR SHARAK ALLAH DAD WA NOOR MOHAMMAD,64.14049,31.26722,18,,,,,,,,,,,ANQAR
+1181594,1594,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,FAYZ JAN WA KHUDAY RAHM,64.2293,31.32276,18,,,,,,,,,,,ANQAR
+1181595,1595,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,SHAR SHARAK MULLA SHARANG,64.20202999999999,31.27792,18,,,,,,,,,,,ANQAR
+1181596,1596,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,HAJI FIYROZ SHAH,64.27452,31.29728,18,,,,,,,,,,,ANQAR
+1181597,1597,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,MULLAH FAKHRULDIN,64.11351999999999,30.94982,18,,,,,,,,,,,ANQAR
+1181598,1598,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,NAQELEN KUSHTI HAJI ABDULLAH JAN,64.14875000000001,30.93533,18,,,,,,,,,,,ANQAR
+1181599,1599,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,HAJI ROKHAN WA NAJEEBULLAH,64.17565000000001,30.98454,18,,,,,,,,,,,ANQAR
+1181600,1600,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,SHAD MIR,64.14592,30.88909,18,,,,,,,,,,,ANQAR
+1181629,1629,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KOTE SUFLA,65.06133,32.38346,18,,,,,,,,,,,ANQAR
+1181630,1630,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KARAIZ DAI,65.07113,32.37302,18,,,,,,,,,,,ANQAR
+1181631,1631,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,RAISACHI,65.09506,32.36132,18,,,,,,,,,,,ANQAR
+1181632,1632,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KARAIZ NAW GHARBI,65.11341,32.41066,18,,,,,,,,,,,ANQAR
+1181633,1633,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,SAPAIDA,65.11758,32.3924,18,,,,,,,,,,,ANQAR
+1181634,1634,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KALIZE YA JALAL ABAD,65.10755,32.36213,18,,,,,,,,,,,ANQAR
+1181635,1635,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,ZAIR KHAK,65.20011,32.39623,18,,,,,,,,,,,ANQAR
+1191511,1511,4. South Western,6. RC S. West,27. Helmand,2. Town,M,,Lashkar Gah town, See Two C-2,,,19,,,,,,,,,,,ANQAR
+1191512,1512,4. South Western,6. RC S. West,27. Helmand,2. Town,F,,Lashkar Gah town,Safyan,,,19,,,,,,,,,,,ANQAR
+1191513,1513,4. South Western,6. RC S. West,27. Helmand,2. Town,M,,Lashkar Gah town,Kasaba De Haqani,,31.6023,19,,,,,,,,,,,ANQAR
+1191514,1514,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Nad 'Ali,WAKIL ABDUL HIMAD KALAY,,31.73537,19,,,,,,,,,,,ANQAR
+1191515,1515,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Nad 'Ali,TAKHTAN,,31.70951,19,,,,,,,,,,,ANQAR
+1191516,1516,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Nad 'Ali,DO BANDI KALAY,,31.72374,19,,,,,,,,,,,ANQAR
+1191517,1517,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Nad 'Ali,CHAH ANJIR SHAMAI,,31.68006,19,,,,,,,,,,,ANQAR
+1191518,1518,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,WAZHDAN,,32.86288,19,,,,,,,,,,,ANQAR
+1191519,1519,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,LEJAK,,32.82973,19,,,,,,,,,,,ANQAR
+1191520,1520,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,GHOL MEASH,,32.61561,19,,,,,,,,,,,ANQAR
+1191521,1521,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,SULTAN RABAT,,32.44088,19,,,,,,,,,,,ANQAR
+1191522,1522,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Lashkar Gah rural,ABDUL ZAHIR WA KHAN M.KALAY,,31.71379,19,,,,,,,,,,,ANQAR
+1191523,1523,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Lashkar Gah rural,JAMAL KALAY HAJI WALI JAN,,31.72185,19,,,,,,,,,,,ANQAR
+1191524,1524,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Lashkar Gah rural,HAJI GULAB-NOOR M.YAR MOHAMMAD,,31.6986,19,,,,,,,,,,,ANQAR
+1191525,1525,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Lashkar Gah rural,SAFID MALOK,,31.68917,19,,,,,,,,,,,ANQAR
+1191526,1526,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Sangin,SHAIKH MOHAMMADI,,32.1876,19,,,,,,,,,,,ANQAR
+1191527,1527,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Sangin,NAKOR ZAI,,32.1262,19,,,,,,,,,,,ANQAR
+1191528,1528,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Sangin,TOORA OBA KALAY,,32.11008,19,,,,,,,,,,,ANQAR
+1191529,1529,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Sangin,ZAHFARAN,,32.0659,19,,,,,,,,,,,ANQAR
+1191530,1530,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Musa Qal'ah,SHAHIDAN,,32.56468,19,,,,,,,,,,,ANQAR
+1191531,1531,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Musa Qal'ah,KAS SHARBAT,,32.46491,19,,,,,,,,,,,ANQAR
+1191532,1532,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Musa Qal'ah,KHOWJA LAHL,,32.42684,19,,,,,,,,,,,ANQAR
+1191533,1533,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Musa Qal'ah,HAZAR MESHI,,32.3571,19,,,,,,,,,,,ANQAR
+1191534,1534,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Now Zad,AMROT,,32.85552,19,,,,,,,,,,,ANQAR
+1191535,1535,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Now Zad,PAY AKHTAK,,32.90217,19,,,,,,,,,,,ANQAR
+1191536,1536,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Marjah,ABDUL MANAF KALAY,,31.42684,19,,,,,,,,,,,ANQAR
+1191537,1537,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Marjah,MARJA BLOCK 3-B,,31.43124,19,,,,,,,,,,,ANQAR
+1191538,1538,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Reg-e Khan Neshin,KALO KALAY,,30.54106,19,,,,,,,,,,,ANQAR
+1191539,1539,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Reg-e Khan Neshin,HALIM KHAN KALAY,,,19,,,,,,,,,,,ANQAR
+1191540,1540,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Dishu,BANGAL,,30.45216,19,,,,,,,,,,,ANQAR
+1191541,1541,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Dishu,AGHA GUL,,32.66942,19,,,,,,,,,,,ANQAR
+1191542,1542,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Nahr-e Saraj,KARAIZ KOKA,,32.04,19,,,,,,,,,,,ANQAR
+1191543,1543,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Nahr-e Saraj,QALA GAZ,,32.00421,19,,,,,,,,,,,ANQAR
+1191544,1544,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Nahr-e Saraj,KHUMARI,,31.99411,19,,,,,,,,,,,ANQAR
+1191545,1545,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Nahr-e Saraj,SALLIH KHAIL,,31.96086,19,,,,,,,,,,,ANQAR
+1191546,1546,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Nahr-e Saraj,PAYEN GAW,,31.94736,19,,,,,,,,,,,ANQAR
+1191547,1547,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Nahr-e Saraj,SHELA GIRISHK,,31.83586,19,,,,,,,,,,,ANQAR
+1191548,1548,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Nahr-e Saraj,NOW ABAD HJIYAN,,31.85635,19,,,,,,,,,,,ANQAR
+1191549,1549,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Nahr-e Saraj,HABIBULLAH KALAY,,31.85536,19,,,,,,,,,,,ANQAR
+1191550,1550,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Nawah-ye-Barakzai,KAKARAN WAKIL RAZ MOHAMMAD,,31.44899,19,,,,,,,,,,,ANQAR
+1191551,1551,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Nawah-ye-Barakzai,SHAHNAWAZ KHAN,,31.47287,19,,,,,,,,,,,ANQAR
+1191552,1552,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Nawah-ye-Barakzai,NIGARIN,,31.4336,19,,,,,,,,,,,ANQAR
+1191553,1553,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Nawah-ye-Barakzai,ABDUL HAKIM WA FAYZULLAH,,31.42832,19,,,,,,,,,,,ANQAR
+1191554,1554,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Nawah-ye-Barakzai,NAQELINI BILAK AWAL,,31.39909,19,,,,,,,,,,,ANQAR
+1191555,1555,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Nawah-ye-Barakzai,GUL AQA LAL M.WA MUSSA KALAY,,31.40044,19,,,,,,,,,,,ANQAR
+1191556,1556,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Garm Ser,KHAIR MOHAMMAD KHAN,,31.13453,19,,,,,,,,,,,ANQAR
+1191557,1557,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Garm Ser,NAQELEN MOHAMMAD AUOUB KHAN,,31.11889,19,,,,,,,,,,,ANQAR
+1191558,1558,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Garm Ser,NAQELEN WAKIL MASOOM MASJEDAK,,31.11475,19,,,,,,,,,,,ANQAR
+1191559,1559,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Garm Ser,HAJI ALI SHAH KHAN,,31.08649,19,,,,,,,,,,,ANQAR
+1191560,1560,4. South Western,6. RC S. West,27. Helmand,1. Village,F,,Garm Ser,HAJI WAZER,,31.07662,19,,,,,,,,,,,ANQAR
+1191561,1561,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Baghran,Intercept interviews,,,19,,,,,,,,,,,ANQAR
+1191562,1562,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Baghran,Intercept interviews,,,19,,,,,,,,,,,ANQAR
+1191563,1563,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Baghran,Intercept interviews,,,19,,,,,,,,,,,ANQAR
+1191564,1564,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Baghran,Intercept interviews,,,19,,,,,,,,,,,ANQAR
+1191629,1629,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,NAICHA,,32.42468,19,,,,,,,,,,,ANQAR
+1191630,1630,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,GHULAM HUSSAIN YA NASWARYAN,,32.37823,19,,,,,,,,,,,ANQAR
+1191631,1631,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,TAJOWI,,32.33987,19,,,,,,,,,,,ANQAR
+1191632,1632,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,KARAIZ QAMBAIYAN,,32.35954,19,,,,,,,,,,,ANQAR
+1191633,1633,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,KOCENAI AW LOW TOORGHI,,32.39853,19,,,,,,,,,,,ANQAR
+1191634,1634,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,HAJI KHAIL,,32.35501,19,,,,,,,,,,,ANQAR
+1191635,1635,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,NAWI KARAIZ,,32.35629,19,,,,,,,,,,,ANQAR
+1191636,1636,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,CHALTAN,,32.40498,19,,,,,,,,,,,ANQAR
+1191637,1637,4. South Western,6. RC S. West,27. Helmand,1. Village,M,,Kajaki,CHENA,,32.33573,19,,,,,,,,,,,ANQAR
+1201511,1511,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town, See Two C-2,,,20,,,,,,,,,,,ANQAR
+1201512,1512,4. South Western,6. RC S. West,27. Helmand,2. Town,F,345,Lashkar Gah town,Safyan,,,20,,,,,,,,,,,ANQAR
+1201513,1513,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,Nawi Safyan,,,20,,,,,,,,,,,ANQAR
+1201514,1514,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,BAIDAK KALAN,64.87049,32.8146,20,,,,,,,,,,,ANQAR
+1201515,1515,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KHUM BALAGH YA BARIKAW,65.09513,32.58354,20,,,,,,,,,,,ANQAR
+1201516,1516,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KARAIZ NOW,65.04935,32.42032,20,,,,,,,,,,,ANQAR
+1201517,1517,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KANDAGHA,64.93659,32.36781,20,,,,,,,,,,,ANQAR
+1201518,1518,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah rural,HAJI ABDUL HAMID,64.36544000000001,31.72561,20,,,,,,,,,,,ANQAR
+1201519,1519,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah rural,HAJI FAIZULLAH MOHAMMAD KHAN,64.44535999999999,31.7199,20,,,,,,,,,,,ANQAR
+1201520,1520,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah rural,ALI SHER,64.38906,31.69588,20,,,,,,,,,,,ANQAR
+1201521,1521,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah rural,DOST MOHAMMAD KHAN,64.35812,31.67798,20,,,,,,,,,,,ANQAR
+1201522,1522,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,BARUKZAI,64.97126,32.19453,20,,,,,,,,,,,ANQAR
+1201523,1523,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,FAIROZI replaced with De Sangin Lora,64.9185,32.13483,20,,,,,,,,,,,ANQAR
+1201524,1524,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,SOKHTA,64.76723,32.58702,20,,,,,,,,,,,ANQAR
+1201525,1525,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,CHOGHARGH,64.731,32.46241,20,,,,,,,,,,,ANQAR
+1201526,1526,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,WASAK,64.75732000000001,32.36288,20,,,,,,,,,,,ANQAR
+1201527,1527,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,CHENA SUFLA,64.76645000000001,32.34218,20,,,,,,,,,,,ANQAR
+1201528,1528,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,POZA,64.56041000000001,32.85566,20,,,,,,,,,,,ANQAR
+1201529,1529,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,MEYAN AKHTAK,64.73423,32.91388,20,,,,,,,,,,,ANQAR
+1201530,1530,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,DORDI,64.54989999999999,32.80151,20,,,,,,,,,,,ANQAR
+1201531,1531,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,GADAYE ZAY,64.64218,32.72955,20,,,,,,,,,,,ANQAR
+1201532,1532,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Marjah,MARJA BLOCK A-7,64.04559999999999,31.44294,20,,,,,,,,,,,ANQAR
+1201533,1533,4. South Western,6. RC S. West,27. Helmand,1. Village,M,417,Marjah,MARJA BLOCK 3-C,64.1296,31.4299,20,,,,,,,,,,,ANQAR
+1201534,1534,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Reg-e Khan Neshin replaced with Nawah-ye-Barakzai,MAHAJIR ABAD,64.30081,31.5074,20,,,,,,,,,,,ANQAR
+1201535,1535,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Reg-e Khan Neshin replaced with Nad 'Ali,WAKIL ABDUL QAYOUM,64.40654000000001,31.75307,20,,,,,,,,,,,ANQAR
+1201536,1536,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Washer replaced with Marjah,MARJA BLOCK 5-E,64.08588,31.491,20,,,,,,,,,,,ANQAR
+1201537,1537,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Washer replaced with Sangin,SAR GHAR GAY,64.87332000000001,32.08863,20,,,,,,,,,,,ANQAR
+1201538,1538,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,KARAIZ LOWAR AMIR,64.48556000000001,32.07269,20,,,,,,,,,,,ANQAR
+1201539,1539,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,KAKA KHAIL,64.78825999999999,32.00132,20,,,,,,,,,,,ANQAR
+1201540,1540,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,CHASHMA,64.80119000000001,31.96489,20,,,,,,,,,,,ANQAR
+1201541,1541,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,MEYAN DIH,64.76074,31.95141,20,,,,,,,,,,,ANQAR
+1201542,1542,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,BAYAN ZAI,64.7628,31.92347,20,,,,,,,,,,,ANQAR
+1201543,1543,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,NOW ABAD DASHT TAJIKAN,64.56386999999999,31.85169,20,,,,,,,,,,,ANQAR
+1201544,1544,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,BARUKZAI,64.64071,31.85341,20,,,,,,,,,,,ANQAR
+1201545,1545,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,PAYEN QALA,64.67097,31.84594,20,,,,,,,,,,,ANQAR
+1201546,1546,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,WAZER KALAY,64.32733,31.46847,20,,,,,,,,,,,ANQAR
+1201547,1547,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,NAQELIN KHUDI RAHM,64.33797,31.40983,20,,,,,,,,,,,ANQAR
+1201548,1548,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,HAJI  RUSTAM,64.34365,31.41726,20,,,,,,,,,,,ANQAR
+1201549,1549,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,HAJI MUBIN KHAN WA KHUDAY RAHIM,64.28592,31.38965,20,,,,,,,,,,,ANQAR
+1201550,1550,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,MARKAZ WALLIWALI,64.31941999999999,31.386,20,,,,,,,,,,,ANQAR
+1201551,1551,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,SAYYID AQA NOOR WA QAZI KHAIL,64.3096,31.35327,20,,,,,,,,,,,ANQAR
+1201552,1552,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,DIN MOHAMMAD HAJI AHMAD,64.16909,31.14013,20,,,,,,,,,,,ANQAR
+1201553,1553,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,HAJHI WAZER RAHMT KHAN,64.19044,31.09396,20,,,,,,,,,,,ANQAR
+1201554,1554,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,NAZAR JOUFT MULLAH DAD MOHAMMAD,64.23577,31.12514,20,,,,,,,,,,,ANQAR
+1201555,1555,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,DEWALA HAJI MOHAMMAD WALI,64.24232000000001,31.07638,20,,,,,,,,,,,ANQAR
+1201556,1556,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,SARWAR KHAN,64.19672,31.07502,20,,,,,,,,,,,ANQAR
+1201557,1557,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,TAJUKAN WA JAKZARER,64.21796000000001,31.02254,20,,,,,,,,,,,ANQAR
+1201558,1558,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,20,,,,,,,,,,,ANQAR
+1201559,1559,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,20,,,,,,,,,,,ANQAR
+1201560,1560,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,20,,,,,,,,,,,ANQAR
+1201561,1561,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,20,,,,,,,,,,,ANQAR
+1201562,1562,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,31 SHARQI WALI  MOHAMMAD KALAY,64.33516,31.70294,20,,,,,,,,,,,ANQAR
+1201563,1563,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,ABADULLAH YA HAJI KARIM,64.31528,31.71797,20,,,,,,,,,,,ANQAR
+1201564,1564,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,ABDUL HALIM,64.28205,31.70385,20,,,,,,,,,,,ANQAR
+1201630,1630,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KARAIZ WALANG,64.98779,32.3524,20,,,,,,,,,,,ANQAR
+1201631,1631,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KARAIZ SAFID,65.01006,32.3851,20,,,,,,,,,,,ANQAR
+1201632,1632,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,SABZI KAR,65.02261,32.34558,20,,,,,,,,,,,ANQAR
+1201633,1633,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KOTE HULYA,65.05955,32.39011,20,,,,,,,,,,,ANQAR
+1201634,1634,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,QALA GUL,65.09426000000001,32.3348,20,,,,,,,,,,,ANQAR
+1201635,1635,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,JARCHE,65.10306,32.40403,20,,,,,,,,,,,ANQAR
+1201636,1636,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,SAPAIDA,65.11758,32.3924,20,,,,,,,,,,,ANQAR
+1201637,1637,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,MAR KHOR YA SUFLA WA HULYA,65.12089,32.36605,20,,,,,,,,,,,ANQAR
+1201638,1638,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,SAR GINAK WA GAW DOZD,65.20182,32.3476,20,,,,,,,,,,,ANQAR
+1201639,1639,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,SHAHBAZ KHAIL,65.06819,32.32109,20,,,,,,,,,,,ANQAR
+1211511,1511,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,See Three C-3,64.3832,31.6112,21,,,,,,,,,,,ANQAR
+1211512,1512,4. South Western,6. RC S. West,27. Helmand,2. Town,F,345,Lashkar Gah town,Ahmad Shahi Mina,,,21,,,,,,,,,,,ANQAR
+1211513,1513,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,Nawi Safyan,,,21,,,,,,,,,,,ANQAR
+1211514,1514,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah rural,KHUSHAK YAR WA KAMAL,64.38303999999999,31.68695,21,,,,,,,,,,,ANQAR
+1211515,1515,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah rural,KHAN KHAIL KALAY,64.34532,31.67459,21,,,,,,,,,,,ANQAR
+1211516,1516,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,SAR GHAR GAY,64.87332000000001,32.08863,21,,,,,,,,,,,ANQAR
+1211517,1517,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,SHAKAR SHILA,64.84361,32.05776,21,,,,,,,,,,,ANQAR
+1211518,1518,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,PAN KALA SHAMALY,64.82832999999999,32.0355,21,,,,,,,,,,,ANQAR
+1211519,1519,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,MALMAND replaced with Koz Mullah Zai Ya Naso Zai,,,21,,,,,,,,,,,ANQAR
+1211520,1520,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,MEHRAB KARAIZ,64.79921,32.35186,21,,,,,,,,,,,ANQAR
+1211521,1521,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,KARAIZ DIH,64.80543,32.34475,21,,,,,,,,,,,ANQAR
+1211522,1522,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,DAND,64.75426,32.33433,21,,,,,,,,,,,ANQAR
+1211523,1523,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,LANDI,64.85169999999999,32.30619,21,,,,,,,,,,,ANQAR
+1211524,1524,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,SAR GHAT,64.54633,32.81578,21,,,,,,,,,,,ANQAR
+1211525,1525,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,CHAR BAND,64.60185,32.70507,21,,,,,,,,,,,ANQAR
+1211526,1526,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,WACHA QOLBA,64.68259000000001,32.68294,21,,,,,,,,,,,ANQAR
+1211527,1527,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,AKBAR KHAN NAWA,64.71742,32.72799,21,,,,,,,,,,,ANQAR
+1211528,1528,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Marjah,MARJA BLOCK 3-A,64.07736,31.44321,21,,,,,,,,,,,ANQAR
+1211529,1529,4. South Western,6. RC S. West,27. Helmand,1. Village,M,417,Marjah,MARJA BLOCK 2-B,64.12148000000001,31.46088,21,,,,,,,,,,,ANQAR
+1211530,1530,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Dishu replaced with Nawah-ye-Barakzai,WAKIL ISMAIL NAQELIN RUBAT,64.19808999999999,31.25163,21,,,,,,,,,,,ANQAR
+1211531,1531,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Dishu replaced with Sangin,MIYAN ROADI replaced with Balo Zai,,,21,,,,,,,,,,,ANQAR
+1211532,1532,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Washer replaced with Nad 'Ali,NAQEL ABAD,64.26928,31.69384,21,,,,,,,,,,,ANQAR
+1211533,1533,4. South Western,6. RC S. West,27. Helmand,1. Village,M,417,Washer replaced with Marjah,MARJA BLOCK 1-C,64.12949,31.47509,21,,,,,,,,,,,ANQAR
+1211534,1534,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,SHELA GIRISHK,64.53703,31.83586,21,,,,,,,,,,,ANQAR
+1211535,1535,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,MAHAJIR ABAD,64.55858000000001,31.85887,21,,,,,,,,,,,ANQAR
+1211536,1536,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,SAMAD KHAN KALAY,64.63227999999999,31.84592,21,,,,,,,,,,,ANQAR
+1211537,1537,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,KAKARAN JUNOBI,64.64435,31.85089,21,,,,,,,,,,,ANQAR
+1211538,1538,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,ROAD GHAARA,64.69482000000001,31.84654,21,,,,,,,,,,,ANQAR
+1211539,1539,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,PAYEN QALA,64.70929,31.86544,21,,,,,,,,,,,ANQAR
+1211540,1540,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,GUL AQA MOHAMMAD RAHIM,64.30163,31.39378,21,,,,,,,,,,,ANQAR
+1211541,1541,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,NAQELIN SHARQI,64.30437000000001,31.38197,21,,,,,,,,,,,ANQAR
+1211542,1542,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,HAJI MALANG KHAN,64.28483,31.37466,21,,,,,,,,,,,ANQAR
+1211543,1543,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,ABDUL ZAHIR,64.2932,31.3377,21,,,,,,,,,,,ANQAR
+1211544,1544,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,SAYYID GUL,64.25507,31.37128,21,,,,,,,,,,,ANQAR
+1211545,1545,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,BALOCAN,64.18428,31.39341,21,,,,,,,,,,,ANQAR
+1211546,1546,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,ABDUL SATAR,64.1829,31.05114,21,,,,,,,,,,,ANQAR
+1211547,1547,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,HAJI AQBAL,64.17074,31.06293,21,,,,,,,,,,,ANQAR
+1211548,1548,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,MOHAMMD OMER KHAN,64.16607000000001,31.07299,21,,,,,,,,,,,ANQAR
+1211549,1549,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,HUSSAIN KHAIL DAR KHAIL,64.14992,30.9164,21,,,,,,,,,,,ANQAR
+1211550,1550,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,KHOWAJA ABAD SULTAN MOHAMMAD,64.21288,30.99304,21,,,,,,,,,,,ANQAR
+1211551,1551,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,SAYIDAN FAQERAN,64.14559,30.90208,21,,,,,,,,,,,ANQAR
+1211552,1552,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,21,,,,,,,,,,,ANQAR
+1211553,1553,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,21,,,,,,,,,,,ANQAR
+1211554,1554,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,21,,,,,,,,,,,ANQAR
+1211555,1555,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,21,,,,,,,,,,,ANQAR
+1211556,1556,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,21,,,,,,,,,,,ANQAR
+1211557,1557,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,21,,,,,,,,,,,ANQAR
+1211558,1558,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,ZOR ABAD,64.22759000000001,31.69155,21,,,,,,,,,,,ANQAR
+1211559,1559,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,SHEN KALAY JUNOBI,64.21446,31.63535,21,,,,,,,,,,,ANQAR
+1211560,1560,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,GUROP 4,64.25288000000001,31.59595,21,,,,,,,,,,,ANQAR
+1211561,1561,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,ARAB KHAIL KALAY,64.29875,31.65431,21,,,,,,,,,,,ANQAR
+1211562,1562,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KARAIZ NOW,65.04935,32.42032,21,,,,,,,,,,,ANQAR
+1211563,1563,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,SHAH PASSAND,64.9276,32.37381,21,,,,,,,,,,,ANQAR
+1211564,1564,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,TAJOWI,64.94368,32.33987,21,,,,,,,,,,,ANQAR
+1211630,1630,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,BALO,,,21,,,,,,,,,,,ANQAR
+1211631,1631,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KOR GHO,64.90772,32.83848,21,,,,,,,,,,,ANQAR
+1211632,1632,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,SANGINAK,64.9019,32.74419,21,,,,,,,,,,,ANQAR
+1211633,1633,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KHUM BALAGH YA BARIKAW,65.09513,32.58354,21,,,,,,,,,,,ANQAR
+1211634,1634,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,WACHA NAICHA,65.03771,32.43317,21,,,,,,,,,,,ANQAR
+1211635,1635,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KARAIZ QAMBAIYAN,64.97708,32.35954,21,,,,,,,,,,,ANQAR
+1211636,1636,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KOCENAI AW LOW TOORGHI,65.00712,32.39853,21,,,,,,,,,,,ANQAR
+1211637,1637,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,HAJI KHAIL,65.02403,32.35501,21,,,,,,,,,,,ANQAR
+1211638,1638,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,NAWI KARAIZ,65.05349,32.35629,21,,,,,,,,,,,ANQAR
+1211639,1639,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,CHALTAN,65.06838000000001,32.40498,21,,,,,,,,,,,ANQAR
+1221511,1511,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,Qala Bust,64.357567,31.532092,22,,,,,,,,,,,ANQAR
+1221512,1512,4. South Western,6. RC S. West,27. Helmand,2. Town,F,345,Lashkar Gah town,Nawi Safyan,,,22,,,,,,,,,,,ANQAR
+1221513,1513,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,Doctor Baqi Chawk,64.36074600000001,31.585361,22,,,,,,,,,,,ANQAR
+1221514,1514,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,22,,,,,,,,,,,ANQAR
+1221515,1515,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,22,,,,,,,,,,,ANQAR
+1221516,1516,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,22,,,,,,,,,,,ANQAR
+1221517,1517,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,22,,,,,,,,,,,ANQAR
+1221518,1518,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,HAJI WAZER,64.20403,31.07662,22,,,,,,,,,,,ANQAR
+1221519,1519,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,NAQELEN LAGHMANI WA MOHAMMAD KARIM SAKHI DAD DARWATI,,,22,,,,,,,,,,,ANQAR
+1221520,1520,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,WAKIL KHAN GUL WA ATA MOHAMMAD,64.13159,30.96106,22,,,,,,,,,,,ANQAR
+1221521,1521,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,KHUAJA ABAD HAJI KHUDAY RAHAM,64.19655,30.98446,22,,,,,,,,,,,ANQAR
+1221522,1522,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,HAJI ROKHAN WA NAJEEBULLAH,64.17565000000001,30.98454,22,,,,,,,,,,,ANQAR
+1221523,1523,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,BAIR TAGAG SUFLA,64.08812,30.88194,22,,,,,,,,,,,ANQAR
+1221524,1524,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,LOWARA JANGAHTO,64.86286,32.97151,22,,,,,,,,,,,ANQAR
+1221525,1525,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KUSHTA JAGHATO,64.8503,32.94836,22,,,,,,,,,,,ANQAR
+1221526,1526,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,WACHA NAICHA,65.03771,32.43317,22,,,,,,,,,,,ANQAR
+1221527,1527,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KARAIZ QAMBAIYAN,64.97708,32.35954,22,,,,,,,,,,,ANQAR
+1221528,1528,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KOCENAI AW LOW TOORGHI,65.00712,32.39853,22,,,,,,,,,,,ANQAR
+1221529,1529,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah rural,ALI SHER,64.38906,31.69588,22,,,,,,,,,,,ANQAR
+1221530,1530,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah rural,PISARAN WA GHULLAM MOHAMMAD KALAY,64.34995000000001,31.6691,22,,,,,,,,,,,ANQAR
+1221531,1531,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Marjah,ABDUL KHALIQ KALAY,63.97093,31.50688,22,,,,,,,,,,,ANQAR
+1221532,1532,4. South Western,6. RC S. West,27. Helmand,1. Village,M,417,Marjah,MARJA BLOCK 8-Q,64.07666,31.41735,22,,,,,,,,,,,ANQAR
+1221533,1533,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,KAS OSMAN YA KAS M. AMIN,64.75752,32.59452,22,,,,,,,,,,,ANQAR
+1221534,1534,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,KARAIZ KOSHANDA,64.73629,32.52458,22,,,,,,,,,,,ANQAR
+1221535,1535,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,LOWAR KARAIZ JALJE,64.86411,32.33362,22,,,,,,,,,,,ANQAR
+1221536,1536,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,CHAGHALI,64.79219999999999,32.2579,22,,,,,,,,,,,ANQAR
+1221537,1537,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,WAKIL SHER MOHAMMAD KALAY,64.35164,31.71536,22,,,,,,,,,,,ANQAR
+1221538,1538,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,GHARBI NARAY MANDA NAWI KALAY,64.27338,31.73375,22,,,,,,,,,,,ANQAR
+1221539,1539,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,HAJI ABDULLAH JAN WA HALAM KHAN,64.29956,31.72314,22,,,,,,,,,,,ANQAR
+1221540,1540,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,SULAIMAN KHAIL,64.15022999999999,31.53693,22,,,,,,,,,,,ANQAR
+1221541,1541,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,QALA GAZ,64.79398000000001,32.00421,22,,,,,,,,,,,ANQAR
+1221542,1542,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,HAJIYAN,64.77085,31.96422,22,,,,,,,,,,,ANQAR
+1221543,1543,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,PAYEN QALA,64.67097,31.84594,22,,,,,,,,,,,ANQAR
+1221544,1544,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,HAJI ABDUL MANAN KALAY,64.74124000000001,31.86373,22,,,,,,,,,,,ANQAR
+1221545,1545,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,BARWAN,64.72492,31.90192,22,,,,,,,,,,,ANQAR
+1221546,1546,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,SANDAR ZAI,64.53668999999999,31.78685,22,,,,,,,,,,,ANQAR
+1221547,1547,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,GHUNDI YA PAI GAW,64.50612,31.78197,22,,,,,,,,,,,ANQAR
+1221548,1548,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,GHALABA JANGAL YA GORA MUGHOL,64.49594999999999,31.74942,22,,,,,,,,,,,ANQAR
+1221549,1549,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,DOST MOHAMMAD WA GUL MOHAMMAD,64.29279,31.42113,22,,,,,,,,,,,ANQAR
+1221550,1550,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,KALAK-I-POTIYAN,64.35822,31.40683,22,,,,,,,,,,,ANQAR
+1221551,1551,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,NAQELINI BILAK AWAL,64.34115,31.39909,22,,,,,,,,,,,ANQAR
+1221552,1552,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,KAHAJERIN,64.26899,31.36104,22,,,,,,,,,,,ANQAR
+1221553,1553,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,SHOR SHARAK OBAIDULLAH,64.16925000000001,31.28093,22,,,,,,,,,,,ANQAR
+1221554,1554,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,GUL AGHA KALAY,64.25796,31.30905,22,,,,,,,,,,,ANQAR
+1221555,1555,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,TANBA,64.545,32.61153,22,,,,,,,,,,,ANQAR
+1221556,1556,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,QALA BADAM,64.45407,32.52638,22,,,,,,,,,,,ANQAR
+1221557,1557,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,DIH BALOCH,64.48263,32.39446,22,,,,,,,,,,,ANQAR
+1221558,1558,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,WARKHA,64.61143,32.07721,22,,,,,,,,,,,ANQAR
+1221559,1559,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Reg-e Khan Neshin replaced with Marjah,MARJA BLOCK 10-B,64.06146,31.41702,22,,,,,,,,,,,ANQAR
+1221560,1560,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Reg-e Khan Neshin replaced with Nawah-ye-Barakzai,KAMAL KHAN,64.17744,31.23058,22,,,,,,,,,,,ANQAR
+1221561,1561,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,SHAKAR SHILA,64.84361,32.05776,22,,,,,,,,,,,ANQAR
+1221562,1562,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,SARKHI KARAIZ,64.84239,32.03815,22,,,,,,,,,,,ANQAR
+1221563,1563,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Washer replaced with Lashkar Gah,KAMP MUKHTAR MALIK NASULLAH,64.36122,31.63378,22,,,,,,,,,,,ANQAR
+1221564,1564,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Washer replaced with Nad 'Ali,KAMP,64.10977,31.51729,22,,,,,,,,,,,ANQAR
+1221630,1630,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,SABZI KAR,65.02261,32.34558,22,,,,,,,,,,,ANQAR
+1221631,1631,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,QASIM LOWAR,65.07337,32.39698,22,,,,,,,,,,,ANQAR
+1221632,1632,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,NIACHA,65.13065,32.40481,22,,,,,,,,,,,ANQAR
+1221633,1633,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KHOWJA AZIZ,65.10605,32.37216,22,,,,,,,,,,,ANQAR
+1221634,1634,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,KHAK JAHANOM,65.10997,32.35542,22,,,,,,,,,,,ANQAR
+1221635,1635,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,SHADKA LALAKO,65.18429,32.36213,22,,,,,,,,,,,ANQAR
+1221636,1636,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,MURCH,65.1895,32.36549,22,,,,,,,,,,,ANQAR
+1221637,1637,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,ALI ABAD,64.98089,32.32976,22,,,,,,,,,,,ANQAR
+1221638,1638,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,NALAN,64.9783,32.28615,22,,,,,,,,,,,ANQAR
+1231511,1511,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,De Nawe Mahlimino Numri,64.38262,31.59762,23,,,,,,,,,,,ANQAR
+1231512,1512,4. South Western,6. RC S. West,27. Helmand,2. Town,F,345,Lashkar Gah town,Doctor Baqi Chawk,64.36075,31.58536,23,,,,,,,,,,,ANQAR
+1231513,1513,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,Mukhtar,64.35673,31.60744,23,,,,,,,,,,,ANQAR
+1231514,1514,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,GUROP 4,64.25288,31.59595,23,,,,,,,,,,,ANQAR
+1231515,1515,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,ZARGHON KALAY SULIMAN KHAIL,64.26888,31.65087,23,,,,,,,,,,,ANQAR
+1231516,1516,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,AGHA JAN KALAY,64.35611,31.72466,23,,,,,,,,,,,ANQAR
+1231517,1517,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,SHAGI BILAND DAW,64.1921,31.60351,23,,,,,,,,,,,ANQAR
+1231518,1518,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,MARKAZI NAD ALI,64.23845,31.64215,23,,,,,,,,,,,ANQAR
+1231519,1519,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231520,1520,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231521,1521,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231522,1522,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231523,1523,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah rural,MULLAH ABDUL RAHMAN KALAY,64.32689,31.6189,23,,,,,,,,,,,ANQAR
+1231524,1524,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah rural,JAMAL KALAY HAJI WALI JAN,64.43447,31.72185,23,,,,,,,,,,,ANQAR
+1231525,1525,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah rural,NAW ABAD KARAIZ,64.3699,31.54724,23,,,,,,,,,,,ANQAR
+1231526,1526,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah rural,CHAR BAGH,64.35214,31.69541,23,,,,,,,,,,,ANQAR
+1231527,1527,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,BALO ZAI,64.94289,32.14946,23,,,,,,,,,,,ANQAR
+1231528,1528,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,NALA,,,23,,,,,,,,,,,ANQAR
+1231529,1529,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,CHO SHAYE,64.88972,32.10594,23,,,,,,,,,,,ANQAR
+1231530,1530,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,CHENAR ESAHAQ ZAI,64.82412,32.0466,23,,,,,,,,,,,ANQAR
+1231531,1531,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,DAHI MASTAN,64.76604,32.33026,23,,,,,,,,,,,ANQAR
+1231532,1532,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,CHAHARR KOCHA,64.80644,32.27257,23,,,,,,,,,,,ANQAR
+1231533,1533,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,ALI ZAY,64.7087,32.6392,23,,,,,,,,,,,ANQAR
+1231534,1534,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,KUSHTA KANI SUFLA,64.64312,32.07385,23,,,,,,,,,,,ANQAR
+1231535,1535,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,QADAM GAH,64.58162,32.86316,23,,,,,,,,,,,ANQAR
+1231536,1536,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,POZI SANG,64.2369,32.54679,23,,,,,,,,,,,ANQAR
+1231537,1537,4. South Western,6. RC S. West,27. Helmand,1. Village,M,417,Marja,ABDUL WAHAB,63.99686,31.48384,23,,,,,,,,,,,ANQAR
+1231538,1538,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Marja,HAJI GHULAM MOHAMMAD,63.9865,31.47001,23,,,,,,,,,,,ANQAR
+1231539,1539,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Reg-e Khan Neshin replaced with Sangin,PANI ZAI,64.97112,32.18774,23,,,,,,,,,,,ANQAR
+1231540,1540,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Reg-e Khan Neshin replaced with Nad 'Ali,HAJI ABDULLAH JAN WA HALAM KHAN,64.29956,31.72314,23,,,,,,,,,,,ANQAR
+1231541,1541,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Dishu replaced with Musa Qal'ah,TOGHI,64.73765,32.42684,23,,,,,,,,,,,ANQAR
+1231542,1542,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Dishu replaced with Marja,GHALAN,64.12137,31.36239,23,,,,,,,,,,,ANQAR
+1231543,1543,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,MOHAMMAD ZAI,64.61356,31.83967,23,,,,,,,,,,,ANQAR
+1231544,1544,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,MALIK MOHAMMAD ANWAR SHAKH,64.66288,31.78825,23,,,,,,,,,,,ANQAR
+1231545,1545,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,KARAIZ KOKA,64.80021,32.04,23,,,,,,,,,,,ANQAR
+1231546,1546,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,TOOR KHAN,64.58753,31.71604,23,,,,,,,,,,,ANQAR
+1231547,1547,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,BALA KHANA WAZEER,64.63578,31.6699,23,,,,,,,,,,,ANQAR
+1231548,1548,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,SALLIH KHAIL,64.75916,31.96086,23,,,,,,,,,,,ANQAR
+1231549,1549,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,SHAR SHARAK ALLAH DAD WA NOOR MOHAMMAD,64.14049,31.26722,23,,,,,,,,,,,ANQAR
+1231550,1550,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,JUMA KHAN WA TOTI KHAN,64.21395,31.23839,23,,,,,,,,,,,ANQAR
+1231551,1551,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,KAMAL KHAN,64.17744,31.23058,23,,,,,,,,,,,ANQAR
+1231552,1552,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,NAQELIN SHORA GAZ,64.31697,31.4741,23,,,,,,,,,,,ANQAR
+1231553,1553,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,KHALICH MALIM QASIM KHAN SAYYID NOOR KHAN WA ABDUL RASHID KHAN,64.28809,31.38238,23,,,,,,,,,,,ANQAR
+1231554,1554,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,TA BANDI KHALAJ,64.32864,31.40215,23,,,,,,,,,,,ANQAR
+1231555,1555,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,HAJI AMIN HAJI ANWAR WA WAZER,64.19131,31.03361,23,,,,,,,,,,,ANQAR
+1231556,1556,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,NAQELEN ABAS ABAD,64.23252,31.05389,23,,,,,,,,,,,ANQAR
+1231557,1557,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,HAJI ALI SHAH KHAN,64.21108,31.08649,23,,,,,,,,,,,ANQAR
+1231558,1558,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,ALI MURAD KHAN BAGAT,63.83914,30.50289,23,,,,,,,,,,,ANQAR
+1231559,1559,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,HAJI GAWHAR KHAN WA HASHIM KHAN,64.02261,30.62284,23,,,,,,,,,,,ANQAR
+1231560,1560,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,HAJI MOHAMMAD ALI,64.16124,30.93666,23,,,,,,,,,,,ANQAR
+1231561,1561,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231562,1562,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231563,1563,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231564,1564,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231634,1634,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231635,1635,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231636,1636,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231637,1637,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231638,1638,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231639,1639,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231640,1640,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231641,1641,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231642,1642,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,23,,,,,,,,,,,ANQAR
+1231643,1643,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,23,,,,,,,,,,,ANQAR
+1241511,1511,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,Chehel Metera Awala,64.371214,31.592574,24,,,,,,,,,,,ANQAR
+1241512,1512,4. South Western,6. RC S. West,27. Helmand,2. Town,F,345,Lashkar Gah town,Qala Bust,64.357567,31.532092,24,,,,,,,,,,,ANQAR
+1241513,1513,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,Sor Kodar,64.38538,34.24189,24,,,,,,,,,,,ANQAR
+1241514,1514,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241515,1515,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241516,1516,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241517,1517,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241518,1518,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah rural,KARAIZ AJAB GUL KALAY,64.35624,31.52987,24,,,,,,,,,,,ANQAR
+1241519,1519,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah rural,KHUSH DIL KHAN MALANG,64.37354,31.67949,24,,,,,,,,,,,ANQAR
+1241520,1520,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah rural,KURONDIH LASHKAR BAZARI SHARQI WA GHARBI,64.46216,31.58468,24,,,,,,,,,,,ANQAR
+1241521,1521,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah rural,HAJI ABDULLAH KHAN BOLAN,64.33717,31.59839,24,,,,,,,,,,,ANQAR
+1241522,1522,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,KHAKASH KARAIZ,64.83299,32.0077,24,,,,,,,,,,,ANQAR
+1241523,1523,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,KUSHTA MULLA ZAYE,64.93049,32.13816,24,,,,,,,,,,,ANQAR
+1241524,1524,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,LOWY KARAIZ,64.8068,32.29834,24,,,,,,,,,,,ANQAR
+1241525,1525,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,LANDI,64.8517,32.30619,24,,,,,,,,,,,ANQAR
+1241526,1526,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,PADLAK,64.76651,32.23177,24,,,,,,,,,,,ANQAR
+1241527,1527,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,YAK LENG,64.77865,32.68874,24,,,,,,,,,,,ANQAR
+1241528,1528,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,GHAR GHANDI,64.6792,32.77942,24,,,,,,,,,,,ANQAR
+1241529,1529,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,KINCHAK HULYA,64.48253,32.50523,24,,,,,,,,,,,ANQAR
+1241530,1530,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,MIR KHAN ABAD,64.69422,32.73485,24,,,,,,,,,,,ANQAR
+1241531,1531,4. South Western,6. RC S. West,27. Helmand,1. Village,M,348,Now Zad,KHALA SHRODD,64.72831,32.76127,24,,,,,,,,,,,ANQAR
+1241532,1532,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Marja,WAKIL GHULAM MOHAMMAD,64.01462,31.48328,24,,,,,,,,,,,ANQAR
+1241533,1533,4. South Western,6. RC S. West,27. Helmand,1. Village,M,417,Marja,MARJA BLOCK 11-A,64.11851,31.37834,24,,,,,,,,,,,ANQAR
+1241534,1534,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Reg-e Khan Neshin replaced with Nahr-e Saraj,SUFIYAN,64.60105,31.82188,24,,,,,,,,,,,ANQAR
+1241535,1535,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Reg-e Khan Neshin replaced with Musa Qal'ah,MOZAK,64.86872,32.10452,24,,,,,,,,,,,ANQAR
+1241536,1536,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Washer replaced with Garm Ser,MOHAMMDA HASHIM WA DAD MOHAMMAD KHAN,64.17295,31.09587,24,,,,,,,,,,,ANQAR
+1241537,1537,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Washer replaced with Nad 'Ali,AGHA JAN KALAY,64.35611,31.72466,24,,,,,,,,,,,ANQAR
+1241538,1538,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,HAIDAR ABAD,64.74093,31.89124,24,,,,,,,,,,,ANQAR
+1241539,1539,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,CHOKAKARAK,64.76855,31.91187,24,,,,,,,,,,,ANQAR
+1241540,1540,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,HAJI ABDUL MANAN KALAY,64.74124,31.86373,24,,,,,,,,,,,ANQAR
+1241541,1541,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,TAK MAKHTAR,64.50828,31.64399,24,,,,,,,,,,,ANQAR
+1241542,1542,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,PAIR MOHAMMAD KHAN,64.79535,32.01086,24,,,,,,,,,,,ANQAR
+1241543,1543,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,SALLIH KHAIL,64.75916,31.96086,24,,,,,,,,,,,ANQAR
+1241544,1544,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,KUNJAK,64.65671,31.85922,24,,,,,,,,,,,ANQAR
+1241545,1545,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,BALOCAN,64.18428,31.39341,24,,,,,,,,,,,ANQAR
+1241546,1546,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,ABDUL HAKIM WA GUL AQA,64.31416,31.42364,24,,,,,,,,,,,ANQAR
+1241547,1547,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,SOR GUL,64.31414,31.37297,24,,,,,,,,,,,ANQAR
+1241548,1548,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,SHALIZAR,64.3169,31.39735,24,,,,,,,,,,,ANQAR
+1241549,1549,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,SHAR SHARAK MISTARI RAHMATULLAH,64.11415,31.20117,24,,,,,,,,,,,ANQAR
+1241550,1550,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,NAQELIN SHARQI,64.30437,31.38197,24,,,,,,,,,,,ANQAR
+1241551,1551,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,HAJI ASADULLHA WA DOST M.KHAN,64.18015,31.03645,24,,,,,,,,,,,ANQAR
+1241552,1552,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,MOHAMMAD ZAHIR KALAY,64.16199,30.95057,24,,,,,,,,,,,ANQAR
+1241553,1553,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,NAQELEN MOHAMMAD AUOUB KHAN,64.1955,31.11889,24,,,,,,,,,,,ANQAR
+1241554,1554,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,GHULAM NABI KHAN,64.11121,30.72791,24,,,,,,,,,,,ANQAR
+1241555,1555,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,HAJI GHAFOR WA GULLAB SHAH,64.19114,30.96989,24,,,,,,,,,,,ANQAR
+1241556,1556,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,HAJI SAYID MOHAMMDA KHAN,64.17022,31.11383,24,,,,,,,,,,,ANQAR
+1241557,1557,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241558,1558,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241559,1559,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241560,1560,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241561,1561,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,WAKIL MURAD KALAY,64.16208,31.59005,24,,,,,,,,,,,ANQAR
+1241562,1562,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,MULLAH WAZER KALAY,64.24081,31.61712,24,,,,,,,,,,,ANQAR
+1241563,1563,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,NAW ABAD MAWLAWI BAHAWUDIN,64.14593,31.51436,24,,,,,,,,,,,ANQAR
+1241564,1564,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,HAJI OBAIDULLAH,64.28774,31.63821,24,,,,,,,,,,,ANQAR
+1241633,1633,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241634,1634,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241635,1635,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241636,1636,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241637,1637,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241638,1638,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241639,1639,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241640,1640,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241641,1641,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,24,,,,,,,,,,,ANQAR
+1241642,1642,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,Intercept interviews,,,24,,,,,,,,,,,ANQAR
+1251390,1390,4. South Western,6. RC S. West,27. Helmand,2. Town,F,345,Lashkar Gah town,Nawi Safyan,,,25,,,,,,,,,,,ANQAR
+1251391,1391,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town, See Two C-2,64.38126,31.59404,25,,,,,,,,,,,ANQAR
+1251392,1392,4. South Western,6. RC S. West,27. Helmand,2. Town,F,345,Lashkar Gah town,Kochnai Kariz,64.377823,31.572539,25,,,,,,,,,,,ANQAR
+1251393,1393,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah rural,POPAL ZAYI,64.34073,31.67894,25,,,,,,,,,,,ANQAR
+1251394,1394,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah rural,ABDUL WODOD,64.42755,31.72128,25,,,,,,,,,,,ANQAR
+1251395,1395,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,CHOGHAK replaced with Poza,,,25,,,,,,,,,,,ANQAR
+1251396,1396,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,LOWAR BOSTAN,64.85262,32.06359,25,,,,,,,,,,,ANQAR
+1251397,1397,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,CHAR DIH replaced with Bazar Sangin,,,25,,,,,,,,,,,ANQAR
+1251398,1398,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,SHOR AB replaced with KUSHTA MULLA ZAYE,64.93049,32.13816,25,,,,,,,,,,,ANQAR
+1251399,1399,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,KARAIZ KHUSHK ABA replaced with LASHKARAK,64.68777,32.22698,25,,,,,,,,,,,ANQAR
+1251400,1400,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,MULLAH GORI NIKA YA KUNJAK,64.72751,32.48661,25,,,,,,,,,,,ANQAR
+1251401,1401,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Now Zad replaced with Musa Qal'ah,SOKHTA,64.76723,32.58702,25,,,,,,,,,,,ANQAR
+1251402,1402,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Now Zad replaced with Nahr-e Saraj,PAYEN  KALA,64.50156,31.68738,25,,,,,,,,,,,ANQAR
+1251403,1403,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Now Zad replaced with Nawah-ye Barakzai,PAY KALAY NIGAHRIN,64.36558,31.42811,25,,,,,,,,,,,ANQAR
+1251404,1404,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Now Zad replaced with Garm Ser,HAZAR JOUFT GHEYASULDIN,64.1974,31.12525,25,,,,,,,,,,,ANQAR
+1251405,1405,4. South Western,6. RC S. West,27. Helmand,1. Village,M,417,Marja,MARJA BLOCK 7-E,64.08572,31.43124,25,,,,,,,,,,,ANQAR
+1251406,1406,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Marja,NOOR MOHAMMAD,63.99109,31.47376,25,,,,,,,,,,,ANQAR
+1251407,1407,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Dishu replaced with Kajaki,ASHTUR WAR replaced with Bazar Kajaki,,,25,,,,,,,,,,,ANQAR
+1251408,1408,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Dishu replaced with Nad 'Ali,ABADULLAH YA HAJI KARIM,64.31528,31.71797,25,,,,,,,,,,,ANQAR
+1251409,1409,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,SAR TAKHT,64.53147,31.79385,25,,,,,,,,,,,ANQAR
+1251410,1410,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,SHAKH POPAL ZAI,64.65688,31.68434,25,,,,,,,,,,,ANQAR
+1251411,1411,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,HAJIYAN,64.77085,31.96422,25,,,,,,,,,,,ANQAR
+1251412,1412,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,KHAROTIYAN,64.56822,31.72034,25,,,,,,,,,,,ANQAR
+1251413,1413,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,SHORA GAZ,64.5071,31.77172,25,,,,,,,,,,,ANQAR
+1251414,1414,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,PAYEN QALA,64.67097,31.84594,25,,,,,,,,,,,ANQAR
+1251415,1415,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,HAJI MOHAMMAD AMIN,64.3457,31.42445,25,,,,,,,,,,,ANQAR
+1251416,1416,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,GUL AQA MOHAMMAD RAHIM,64.30163,31.39378,25,,,,,,,,,,,ANQAR
+1251417,1417,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,MOHAMMAD ALI MOHAMMAD AZIM KALAY,64.21163,31.25348,25,,,,,,,,,,,ANQAR
+1251418,1418,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,MUNIR KHAN,64.3141,31.43516,25,,,,,,,,,,,ANQAR
+1251419,1419,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye-Barakzai,NAQELIN KHUDI RAHM,64.33797,31.40983,25,,,,,,,,,,,ANQAR
+1251420,1420,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye-Barakzai,ABUULLAH,64.32618,31.43155,25,,,,,,,,,,,ANQAR
+1251421,1421,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,DOMAK GORGAN,64.09303,30.8129,25,,,,,,,,,,,ANQAR
+1251422,1422,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,SABA WA GORG,64.14267,30.82979,25,,,,,,,,,,,ANQAR
+1251423,1423,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,MOHAMMD OMER KHAN,64.16607,31.07299,25,,,,,,,,,,,ANQAR
+1251424,1424,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,HAJI SALLYH MOHAMMAD,64.14017,30.93932,25,,,,,,,,,,,ANQAR
+1251425,1425,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,25,,,,,,,,,,,ANQAR
+1251426,1426,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,25,,,,,,,,,,,ANQAR
+1251427,1427,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,25,,,,,,,,,,,ANQAR
+1251428,1428,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,intercept interviews,,,25,,,,,,,,,,,ANQAR
+1251429,1429,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,WAKIL ABDUL QAYOUM,64.40654,31.75307,25,,,,,,,,,,,ANQAR
+1251430,1430,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,SHEN KALAY JUNOBI,64.21446,31.63535,25,,,,,,,,,,,ANQAR
+1251431,1431,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,WAKIL AGHA MOHAMMAD,64.10828,31.56187,25,,,,,,,,,,,ANQAR
+1251432,1432,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,HAJI ALO GUL KALAY,64.31867,31.69494,25,,,,,,,,,,,ANQAR
+1251433,1433,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,QARI  KALAY,64.27357,31.70762,25,,,,,,,,,,,ANQAR
+1251434,1434,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,KASHMIRI,64.11832,31.5432,25,,,,,,,,,,,ANQAR
+1251435,1435,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,BARAIG JOWI replaced with Alaqa Dari Kajaki,,,25,,,,,,,,,,,ANQAR
+1251436,1436,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,MAMON ZAE replaced with Kajaki Ulya,,,25,,,,,,,,,,,ANQAR
+1251437,1437,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,WALA KHOR replaced with Kamp Kajaki,,,25,,,,,,,,,,,ANQAR
+1251438,1438,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,CHAGI,64.95111,32.2376,25,,,,,,,,,,,ANQAR
+1261577,1577,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town, See Two C-2,64.38126,31.59404,26,,,,,,,,,,,ANQAR
+1261578,1578,4. South Western,6. RC S. West,27. Helmand,2. Town,F,345,Lashkar Gah town,Kochnai Kariz,64.377823,31.572539,26,,,,,,,,,,,ANQAR
+1261579,1579,4. South Western,6. RC S. West,27. Helmand,2. Town,M,345,Lashkar Gah town,28 Family,,,26,,,,,,,,,,,ANQAR
+1261580,1580,4. South Western,6. RC S. West,27. Helmand,2. Town,F,345,Lashkar Gah town,Haji Musa kalai,64.391127,31.593378,26,,,,,,,,,,,ANQAR
+1261581,1581,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,TAL GAWMESH,64.77873,31.88407,26,,,,,,,,,,,ANQAR
+1261582,1582,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,SHAKH POPAL ZAI,64.65688,31.68434,26,,,,,,,,,,,ANQAR
+1261583,1583,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,JAMAL KHAN,64.46148,31.74747,26,,,,,,,,,,,ANQAR
+1261584,1584,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,ISAHAQ ZAI,64.73565,31.91135,26,,,,,,,,,,,ANQAR
+1261585,1585,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Nahr-e Saraj,KAKA KHAIL,64.78826,32.00132,26,,,,,,,,,,,ANQAR
+1261586,1586,4. South Western,6. RC S. West,27. Helmand,1. Village,F,340,Nahr-e Saraj,KHUMARI replaced with Malger,,,26,,,,,,,,,,,ANQAR
+1261587,1587,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye Barakzai,NADIR KHAN,64.17365,31.19432,26,,,,,,,,,,,ANQAR
+1261588,1588,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye Barakzai,ABDUL HAKIM WA FAYZULLAH,64.30538,31.42832,26,,,,,,,,,,,ANQAR
+1261589,1589,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye Barakzai,SHALIZAR,64.3169,31.39735,26,,,,,,,,,,,ANQAR
+1261590,1590,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye Barakzai,GAWHAR GIN SUFLA,64.34819,31.44784,26,,,,,,,,,,,ANQAR
+1261591,1591,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye Barakzai,WAKIL GHAZI-WAKIL JUMA,64.19331,31.26142,26,,,,,,,,,,,ANQAR
+1261592,1592,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye Barakzai,SHAR SHARK MOHAMMAD AMIN,64.15729,31.29059,26,,,,,,,,,,,ANQAR
+1261593,1593,4. South Western,6. RC S. West,27. Helmand,1. Village,M,341,Nawah-ye Barakzai,JUMA GUL WA LAL MOHAMMAD KHAN,64.28159,31.32219,26,,,,,,,,,,,ANQAR
+1261594,1594,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Nawah-ye Barakzai,MIR HAMZA,64.29054,31.36935,26,,,,,,,,,,,ANQAR
+1261595,1595,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,RAHMATULLAH KHAN,63.90118,30.5181,26,,,,,,,,,,,ANQAR
+1261596,1596,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,HAJI MALIK NAZAR ALI KHAN,64.21711,31.06891,26,,,,,,,,,,,ANQAR
+1261597,1597,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,NAQELEN ABAS ABAD,64.23252,31.05389,26,,,,,,,,,,,ANQAR
+1261598,1598,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,KHUDAI NAZAR KHAN BAGAT,63.81415,30.51189,26,,,,,,,,,,,ANQAR
+1261599,1599,4. South Western,6. RC S. West,27. Helmand,1. Village,M,342,Garm Ser,HAYATULLAH,64.05322,30.64959,26,,,,,,,,,,,ANQAR
+1261600,1600,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Garm Ser,HAJI MOHAMMAD AKBAR KHAN,64.19786,31.05657,26,,,,,,,,,,,ANQAR
+1261601,1601,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,26,,,,,,,,,,,ANQAR
+1261602,1602,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,26,,,,,,,,,,,ANQAR
+1261603,1603,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,26,,,,,,,,,,,ANQAR
+1261604,1604,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,26,,,,,,,,,,,ANQAR
+1261605,1605,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,26,,,,,,,,,,,ANQAR
+1261606,1606,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Baghran,Intercept interviews,,,26,,,,,,,,,,,ANQAR
+1261607,1607,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,CHAH ANJIR JUNOBI,64.31091,31.67425,26,,,,,,,,,,,ANQAR
+1261608,1608,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,MARKAZI NAD ALI,64.23845,31.64215,26,,,,,,,,,,,ANQAR
+1261609,1609,4. South Western,6. RC S. West,27. Helmand,1. Village,M,339,Nad 'Ali,BALOCH HA,64.17774,31.55118,26,,,,,,,,,,,ANQAR
+1261610,1610,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Nad 'Ali,MIR GANJ 25 FATTIH MOHAMMAD,64.39509,31.72724,26,,,,,,,,,,,ANQAR
+1261611,1611,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,PAI SANGI,65.06998,32.30241,26,,,,,,,,,,,ANQAR
+1261612,1612,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,BAGHELA YA BAGHELA,64.94705,32.91174,26,,,,,,,,,,,ANQAR
+1261613,1613,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,WALA KHOR,64.79618,32.68068,26,,,,,,,,,,,ANQAR
+1261614,1614,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,ZORWAANGI,64.95111,32.81695,26,,,,,,,,,,,ANQAR
+1261615,1615,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,CHAR DAHI WA MAZAR,65.16487,32.34486,26,,,,,,,,,,,ANQAR
+1261616,1616,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Kajaki,BAZAR KAJAKI,65.10054,32.32679,26,,,,,,,,,,,ANQAR
+1261617,1617,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah,MIR YOUNUS,64.4158,31.63059,26,,,,,,,,,,,ANQAR
+1261618,1618,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah,KHALIFA ANWAR,64.4035,31.69609,26,,,,,,,,,,,ANQAR
+1261619,1619,4. South Western,6. RC S. West,27. Helmand,1. Village,M,345,Lashkar Gah,BIST HULYA,64.35658,31.48473,26,,,,,,,,,,,ANQAR
+1261620,1620,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Lashkar Gah,KURONDIH LASHKAR BAZARI SHARQI WA GHARBI,64.46216,31.58468,26,,,,,,,,,,,ANQAR
+1261621,1621,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,ZAHFARAN replaced with Kishta Mulazai,,,26,,,,,,,,,,,ANQAR
+1261622,1622,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,PANI ZAI,64.97112,32.18774,26,,,,,,,,,,,ANQAR
+1261623,1623,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,RAIGI ,64.90024,32.11735,26,,,,,,,,,,,ANQAR
+1261624,1624,4. South Western,6. RC S. West,27. Helmand,1. Village,M,346,Sangin,ZAR DAIGE replaced with SAR GHAR GAY,64.87332,32.08863,26,,,,,,,,,,,ANQAR
+1261625,1625,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,SARKIYAN YA MASHHAD YAN,64.80934,32.24526,26,,,,,,,,,,,ANQAR
+1261626,1626,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,KANDAR,64.80922,32.26464,26,,,,,,,,,,,ANQAR
+1261627,1627,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,SHARAGA,64.79242,32.23262,26,,,,,,,,,,,ANQAR
+1261628,1628,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Musa Qal'ah,GURDI ZANGAL,64.74902,32.56739,26,,,,,,,,,,,ANQAR
+1261629,1629,4. South Western,6. RC S. West,27. Helmand,1. Village,M,340,Now Zad replaced with Nahr-e Saraj,JABIR ABAD replaced with Maden Zai,,,26,,,,,,,,,,,ANQAR
+1261630,1630,4. South Western,6. RC S. West,27. Helmand,1. Village,F,341,Now Zad replaced with Nawah-ye Barakzai,SHOR SHARAK LANDI  WIYALA,64.19128,31.2794,26,,,,,,,,,,,ANQAR
+1261631,1631,4. South Western,6. RC S. West,27. Helmand,1. Village,M,343,Now Zad replaced with Baghran,Intercept interviews,,,26,,,,,,,,,,,ANQAR
+1261632,1632,4. South Western,6. RC S. West,27. Helmand,1. Village,F,417,Marja,ABDUL MANAF KALAY,64.02508,31.42684,26,,,,,,,,,,,ANQAR
+1261633,1633,4. South Western,6. RC S. West,27. Helmand,1. Village,M,417,Marja,GHULAM MOHAMMAD WA ALLAH NAZAR,64.07944,31.53234,26,,,,,,,,,,,ANQAR
+1261634,1634,4. South Western,6. RC S. West,27. Helmand,1. Village,F,342,Reg-e Khan Neshin replaced with Garm Ser,HAJI JAMAL ZAI WA HAJI WALAD,64.1082,30.76013,26,,,,,,,,,,,ANQAR
+1261635,1635,4. South Western,6. RC S. West,27. Helmand,1. Village,M,344,Reg-e Khan Neshin replaced with Kajaki,KAJAKI SUFLA,65.05234,32.27642,26,,,,,,,,,,,ANQAR
+1261636,1636,4. South Western,6. RC S. West,27. Helmand,1. Village,F,339,Dishu replaced with Nad 'Ali,WAKIL KHUDAI NAZAR,64.18,31.58895,26,,,,,,,,,,,ANQAR
+1261637,1637,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Dishu replaced with Musa Qal'ah,DAHI SOFIYAN,64.78802,32.2822,26,,,,,,,,,,,ANQAR
+1261638,1638,4. South Western,6. RC S. West,27. Helmand,1. Village,F,345,Washer replaced with Lashkar Gah,KHAIRULAH KALAY,64.34668,31.52663,26,,,,,,,,,,,ANQAR
+1261639,1639,4. South Western,6. RC S. West,27. Helmand,1. Village,M,347,Washer replaced with Musa Qal'ah,HAJI QOULY,64.80783,32.1703,26,,,,,,,,,,,ANQAR
+22013678,678,4. South Western,,27. Helmand,2. Town,M,,Lashkar Gah town,Dowahama Chehel Metera,,,2013,,,,,,,,,,,TAF
+22013679,679,4. South Western,,27. Helmand,2. Town,F,,Lashkar Gah town,Safyan,,,2013,,,,,,,,,,,TAF
+22013680,680,4. South Western,,27. Helmand,2. Town,M,,Lashkar Gah town,Nawi Safyan,,,2013,,,,,,,,,,,TAF
+22013681,681,4. South Western,,27. Helmand,2. Town,F,,Lashkar Gah town,Ahmad Shahi Mina,,,2013,,,,,,,,,,,TAF
+22013682,682,4. South Western,,27. Helmand,1. Rural,M,,Nahr-i-Saraj,MOHAMMAD ABAD,64.39009,32.03623,2013,,,,,,,,,,,TAF
+22013683,683,4. South Western,,27. Helmand,1. Rural,F,,Nahr-i-Saraj,KARAIZ HA,64.80387,32.03237,2013,,,,,,,,,,,TAF
+22013684,684,4. South Western,,27. Helmand,1. Rural,M,,Nahr-i-Saraj,KARAIZ KHALIFA,64.75614,32.00306,2013,,,,,,,,,,,TAF
+22013685,685,4. South Western,,27. Helmand,1. Rural,F,,Nahr-i-Saraj,HAJI KAMAL,64.80095,31.9975,2013,,,,,,,,,,,TAF
+22013686,686,4. South Western,,27. Helmand,1. Rural,M,,Nahr-i-Saraj,TOORMA replaced with Aab Bazan,,,2013,,,,,,,,,,,TAF
+22013687,687,4. South Western,,27. Helmand,1. Rural,F,,Nahr-i-Saraj,SAR TAKHT,64.76786,31.97457,2013,,,,,,,,,,,TAF
+22013688,688,4. South Western,,27. Helmand,1. Rural,M,,Nahr-i-Saraj,KUNJAK,64.7818,31.94958,2013,,,,,,,,,,,TAF
+22013689,689,4. South Western,,27. Helmand,1. Rural,F,,Nahr-i-Saraj,PAYEN GAW,64.75388,31.94736,2013,,,,,,,,,,,TAF
+22013690,690,4. South Western,,27. Helmand,1. Rural,M,,Nawa-i-Barukzai,SAYYID ABAD,64.32774000000001,31.50203,2013,,,,,,,,,,,TAF
+22013691,691,4. South Western,,27. Helmand,1. Rural,F,,Nawa-i-Barukzai,WAKIL MANAN,64.19587,31.42237,2013,,,,,,,,,,,TAF
+22013692,692,4. South Western,,27. Helmand,1. Rural,M,,Nawa-i-Barukzai,GHULAM HAIDAR,64.32722,31.47927,2013,,,,,,,,,,,TAF
+22013693,693,4. South Western,,27. Helmand,1. Rural,F,,Nawa-i-Barukzai,GAWHAR GIN HULYA,64.32496,31.4567,2013,,,,,,,,,,,TAF
+22013694,694,4. South Western,,27. Helmand,1. Rural,M,,Nawa-i-Barukzai,PAY KALAY NIGAHRIN,64.36557999999999,31.42811,2013,,,,,,,,,,,TAF
+22013695,695,4. South Western,,27. Helmand,1. Rural,F,,Nawa-i-Barukzai,HAJI JAMAL,64.30737000000001,31.44028,2013,,,,,,,,,,,TAF
+22013696,696,4. South Western,,27. Helmand,1. Rural,M,,Nawa-i-Barukzai,MALANG,64.32877000000001,31.41928,2013,,,,,,,,,,,TAF
+22013697,697,4. South Western,,27. Helmand,1. Rural,F,,Nawa-i-Barukzai,ZAHIR JAN WA MALIK JAN,64.32646,31.41334,2013,,,,,,,,,,,TAF
+22013698,698,4. South Western,,27. Helmand,1. Rural,M,,Garm Ser,JANGALI HAJI SHARAFUDDIN,64.16367,31.12674,2013,,,,,,,,,,,TAF
+22013699,699,4. South Western,,27. Helmand,1. Rural,F,,Garm Ser,KHARI  MOHAMMAD LAHL,,,2013,,,,,,,,,,,TAF
+22013700,700,4. South Western,,27. Helmand,1. Rural,M,,Garm Ser,SHARAFULDIN,64.19044,31.09396,2013,,,,,,,,,,,TAF
+22013701,701,4. South Western,,27. Helmand,1. Rural,F,,Garm Ser,MOHAMMDA OSMAN KHAN KALAY,64.2071,31.13471,2013,,,,,,,,,,,TAF
+22013702,702,4. South Western,,27. Helmand,1. Rural,M,,Garm Ser,HAJI BAHLOL KALAY,64.2328,31.11088,2013,,,,,,,,,,,TAF
+22013703,703,4. South Western,,27. Helmand,1. Rural,F,,Garm Ser,WAKIL BABARI,64.24005,31.09857,2013,,,,,,,,,,,TAF
+22013704,704,4. South Western,,27. Helmand,1. Rural,M,,Garm Ser,ESMAHEL SAYID MIR WA  QASIM,64.22736999999999,31.07049,2013,,,,,,,,,,,TAF
+22013705,705,4. South Western,,27. Helmand,1. Rural,F,,Garm Ser,HAJI WAZER,64.20403,31.07662,2013,,,,,,,,,,,TAF
+22013706,706,4. South Western,,27. Helmand,1. Rural,M,,Baghran,,,,2013,,,,,,,,,,,TAF
+22013707,707,4. South Western,,27. Helmand,1. Rural,M,,Baghran,,,,2013,,,,,,,,,,,TAF
+22013708,708,4. South Western,,27. Helmand,1. Rural,M,,Baghran,,,,2013,,,,,,,,,,,TAF
+22013709,709,4. South Western,,27. Helmand,1. Rural,M,,Baghran,,,,2013,,,,,,,,,,,TAF
+22013710,710,4. South Western,,27. Helmand,1. Rural,M,,Baghran,,,,2013,,,,,,,,,,,TAF
+22013711,711,4. South Western,,27. Helmand,1. Rural,M,,Baghran,,,,2013,,,,,,,,,,,TAF
+22013712,712,4. South Western,,27. Helmand,1. Rural,M,,Nad Ali,LOWYY MANDA SULTAN MOHAMMAD KALAY,64.34988,31.75814,2013,,,,,,,,,,,TAF
+22013713,713,4. South Western,,27. Helmand,1. Rural,F,,Nad Ali,MIR GANJ 25 FATTIH MOHAMMAD,64.39509,31.72724,2013,,,,,,,,,,,TAF
+22013714,714,4. South Western,,27. Helmand,1. Rural,M,,Nad Ali,WAKIL SHER MOHAMMAD KALAY,64.35164,31.71536,2013,,,,,,,,,,,TAF
+22013715,715,4. South Western,,27. Helmand,1. Rural,F,,Nad Ali,LOWY MANDA GHARBI HAZRAT M. KALAY,64.32796999999999,31.73869,2013,,,,,,,,,,,TAF
+22013716,716,4. South Western,,27. Helmand,1. Rural,M,,Nad Ali,QARI  KALAY,64.27357000000001,31.70762,2013,,,,,,,,,,,TAF
+22013717,717,4. South Western,,27. Helmand,1. Rural,F,,Nad Ali,HAJI ALO GUL KALAY,64.31867,31.69494,2013,,,,,,,,,,,TAF
+22013718,718,4. South Western,,27. Helmand,1. Rural,M,,Kajaki,KHOWJA ANGAL,64.84379,32.9286,2013,,,,,,,,,,,TAF
+22013719,719,4. South Western,,27. Helmand,1. Rural,M,,Kajaki,KUSHTA WAZHDAN,64.85822,32.85402,2013,,,,,,,,,,,TAF
+22013720,720,4. South Western,,27. Helmand,1. Rural,M,,Kajaki,ASHTUR WAR,64.95226,32.8941,2013,,,,,,,,,,,TAF
+22013721,721,4. South Western,,27. Helmand,1. Rural,M,,Kajaki,ANARAK,64.90468,32.75969,2013,,,,,,,,,,,TAF
+22013722,722,4. South Western,,27. Helmand,1. Rural,M,,Kajaki,SHAIRI,65.13478000000001,32.64669,2013,,,,,,,,,,,TAF
+22013723,723,4. South Western,,27. Helmand,1. Rural,M,,Kajaki,LAB JOWI,65.13357000000001,32.42485,2013,,,,,,,,,,,TAF
+22013724,724,4. South Western,,27. Helmand,1. Rural,M,,Lashkar Gah rural,LALA GUL,64.4169,31.73811,2013,,,,,,,,,,,TAF
+22013725,725,4. South Western,,27. Helmand,1. Rural,F,,Lashkar Gah rural,M. HASHIM KHAN WA WAZIR KHAN KALAY,64.39384,31.70933,2013,,,,,,,,,,,TAF
+22013726,726,4. South Western,,27. Helmand,1. Rural,M,,Lashkar Gah rural,ABDUL WODOD,64.42755,31.72128,2013,,,,,,,,,,,TAF
+22013727,727,4. South Western,,27. Helmand,1. Rural,F,,Lashkar Gah rural,ABDUL KARIM  KHAN,64.41049,31.69924,2013,,,,,,,,,,,TAF
+22013728,728,4. South Western,,27. Helmand,1. Rural,M,,Sangin,CHAR DIH replaced with Sangin Lora,,,2013,,,,,,,,,,,TAF
+22013729,729,4. South Western,,27. Helmand,1. Rural,M,,Sangin,PANI ZAI replaced with Koz Mullah Zai Ya Naso Zai,,,2013,,,,,,,,,,,TAF
+22013730,730,4. South Western,,27. Helmand,1. Rural,M,,Sangin,NAIM SHAIR,64.92047,32.14425,2013,,,,,,,,,,,TAF
+22013731,731,4. South Western,,27. Helmand,1. Rural,M,,Sangin,GURA WA CHAK,64.92435999999999,32.12967,2013,,,,,,,,,,,TAF
+22013732,732,4. South Western,,27. Helmand,1. Rural,M,,Musa Qalah,SOFIYAN,64.76516,32.61814,2013,,,,,,,,,,,TAF
+22013733,733,4. South Western,,27. Helmand,1. Rural,M,,Musa Qalah,GHALJAE,64.74267,32.55675,2013,,,,,,,,,,,TAF
+22013734,734,4. South Western,,27. Helmand,1. Rural,M,,Musa Qalah,KAS ASHRAF,64.73771000000001,32.48711,2013,,,,,,,,,,,TAF
+22013735,735,4. South Western,,27. Helmand,1. Rural,M,,Musa Qalah,KHATGAY,64.83671,32.40908,2013,,,,,,,,,,,TAF
+22013736,736,4. South Western,,27. Helmand,1. Rural,M,,Musa Qalah,GULAB KARAIZ,64.72448,32.3641,2013,,,,,,,,,,,TAF
+22013737,737,4. South Western,,27. Helmand,1. Rural,M,,Nawzad,SAR AKHTAK,64.73974,32.93115,2013,,,,,,,,,,,TAF
+22013738,738,4. South Western,,27. Helmand,1. Rural,M,,Nawzad,QADAM GAH,64.58162,32.86316,2013,,,,,,,,,,,TAF
+22013739,739,4. South Western,,27. Helmand,1. Rural,M,,Nawzad,AMAN RABAT,64.69637,32.86416,2013,,,,,,,,,,,TAF
+22013740,740,4. South Western,,27. Helmand,1. Rural,M,,Nawzad,GURGAN,64.71011,32.76263,2013,,,,,,,,,,,TAF
+22013741,741,4. South Western,,27. Helmand,1. Rural,F,,Marjah,MARJA BLOCK C-5,64.06350000000001,31.49111,2013,,,,,,,,,,,TAF
+22013742,742,4. South Western,,27. Helmand,1. Rural,M,,Marjah,MARJA BLOCK A-7,64.04559999999999,31.44294,2013,,,,,,,,,,,TAF
+22013743,743,4. South Western,,27. Helmand,1. Rural,M,,Reg-i-Khan Nishin,,,,2013,,,,,,,,,,,TAF
+22013744,744,4. South Western,,27. Helmand,1. Rural,M,,Reg-i-Khan Nishin,,,,2013,,,,,,,,,,,TAF
+22013745,745,4. South Western,,27. Helmand,1. Rural,M,,Dishu,,,,2013,,,,,,,,,,,TAF
+22013746,746,4. South Western,,27. Helmand,1. Rural,M,,Dishu,,,,2013,,,,,,,,,,,TAF
+22014639,639,4. South Western,,27. Helmand,,female,,Lashkar Gah,,64.35379,31.57356,2014,,Qala Kohna,2. Urban,,???? ????,9,,,,,TAF
+22014640,640,4. South Western,,27. Helmand,,male,,Lashkar Gah,,,,2014,,Mahlimino Numri,2. Urban,,??????? ????,5,,,,,TAF
+22014641,641,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,,,2014,,Ab Bazan,2. Urban,,,1,,,,,TAF
+22014642,642,4. South Western,,27. Helmand,,male,,Nahr-i-saraj,,,,2014,,Dehmazang,2. Urban,,,7,,,,,TAF
+22014643,643,4. South Western,,27. Helmand,,female,,Lashkar Gah,,,,2014,,SHER BANDI replaced with Kariz Aji Abdul Wahid,1. Rural,,??? ????,3,,,,,TAF
+22014644,644,4. South Western,,27. Helmand,,male,,Lashkar Gah,,64.36858,31.51385,2014,,HAJI NAZAR MOHAMMAD KARAIZ,1. Rural,,???? ??? ???? ?????,9,,,,,TAF
+22014645,645,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.59753,31.82656,2014,,QALA GAZ replaced with ALLAH GUL,1. Rural,,???? ??,5,,,,,TAF
+22014646,646,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.60874,31.80488,2014,,DAGIYAN,1. Rural,,??????,1,,,,,TAF
+22014647,647,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.58963,31.82726,2014,,BAND BARQ,1. Rural,,??? ???,7,,,,,TAF
+22014648,648,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.5508,31.79952,2014,,CHARKH ANDAZ,1. Rural,,??? ?????,3,,,,,TAF
+22014649,649,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.57769,31.85635,2014,,BARWAN replaced with NOW ABAD HJIYAN,1. Rural,,?????,9,,,,,TAF
+22014650,650,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.5783,31.83791,2014,,KHARABA replaced with HAJIYAN,1. Rural,,?????,5,,,,,TAF
+22014651,651,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,,,2014,,HAJI ABDUL MANAN KALAY replaced with Mager,1. Rural,,???? ????????? ???,1,,,,,TAF
+22014652,652,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,,,2014,,DAR BAND SAR replaced with Nik Zai,1. Rural,,????? ??,7,,,,,TAF
+22014653,653,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,,,2014,,ADIN ZAI replaced with Negar Shah,1. Rural,,???? ??,3,,,,,TAF
+22014654,654,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.5071,31.77172,2014,,SAR KALA replaced with SHORA GAZ,1. Rural,,??? ???,9,,,,,TAF
+22014655,655,4. South Western,,27. Helmand,,male,,Nahr-i-saraj,,64.47472,31.74492,2014,,PAYYAN QALA,1. Rural,,????? ????,5,,,,,TAF
+22014656,656,4. South Western,,27. Helmand,,male,,Nahr-i-saraj,,64.46148,31.74747,2014,,JAMAL KHAN,1. Rural,,???? ???,1,,,,,TAF
+22014657,657,4. South Western,,27. Helmand,,male,,Baghran,,,,2014,,Intercept Interviews,1. Rural,,,,,,,,TAF
+22014658,658,4. South Western,,27. Helmand,,male,,Baghran,,,,2014,,Intercept Interviews,1. Rural,,,,,,,,TAF
+22014659,659,4. South Western,,27. Helmand,,male,,Baghran,,,,2014,,Intercept Interviews,1. Rural,,,,,,,,TAF
+22014660,660,4. South Western,,27. Helmand,,male,,Dishu,,,,2014,,Intercept Interviews,1. Rural,,,,,,,,TAF
+22014661,661,4. South Western,,27. Helmand,,female,,Garm Ser,,64.17074,31.06293,2014,,TOR ZAHIR KHAN KALAY replaced with HAJI AQBAL,1. Rural,,??? ???? ??? ???,1,,,,,TAF
+22014662,662,4. South Western,,27. Helmand,,female,,Garm Ser,,64.14059,30.86336,2014,,LAKARI,1. Rural,,????,7,,,,,TAF
+22014663,663,4. South Western,,27. Helmand,,female,,Garm Ser,,64.13159,30.96106,2014,,WAKIL KHAN GUL WA ATA MOHAMMAD,1. Rural,,???? ??? ?? ? ??? ????,3,,,,,TAF
+22014664,664,4. South Western,,27. Helmand,,male,,Garm Ser,,64.09278,30.71143,2014,,HAJI KHAN MOHAMMAD replaced with SULTAN MOHAMMAD KHAN,1. Rural,,???? ??? ????,9,,,,,TAF
+22014665,665,4. South Western,,27. Helmand,,male,,Garm Ser,,64.11744,30.81857,2014,,NAQELENI SOKHTA,1. Rural,,?????? ?????,5,,,,,TAF
+22014666,666,4. South Western,,27. Helmand,,male,,Garm Ser,,63.97853,30.54585,2014,,NAQELEN MIR HAMZA AGHA,1. Rural,,?????? ??? ???? ???,1,,,,,TAF
+22014667,667,4. South Western,,27. Helmand,,male,,Kajaki,,,,2014,,Intercept Interviews,1. Rural,,,,,,,,TAF
+22014668,668,4. South Western,,27. Helmand,,male,,Kajaki,,,,2014,,Intercept Interviews,1. Rural,,,,,,,,TAF
+22014669,669,4. South Western,,27. Helmand,,male,,Kajaki,,,,2014,,Intercept Interviews,1. Rural,,,,,,,,TAF
+22014670,670,4. South Western,,27. Helmand,,female,,Lashkar Gah,,64.3284,31.65272,2014,,KURONDIH LASHKAR BAZARI SHARQI WA GHARBI replaced with BAHLOL,1. Rural,,?????? ???? ????? ???? ? ????,5,,,,,TAF
+22014671,671,4. South Western,,27. Helmand,,male,,Lashkar Gah,,64.38807,31.63493,2014,,GHULAM HAYDAR,1. Rural,,???? ????,1,,,,,TAF
+22014672,672,4. South Western,,27. Helmand,,female,,Marjah,,64.07694,31.50411,2014,,MARJA BLOCK 9-B-1 replaced with MARJA BLOCK D-5,1. Rural,,9-B-1  ????? ????,7,,,,,TAF
+22014673,673,4. South Western,,27. Helmand,,male,,Marjah,,64.09121,31.37477,2014,,MARJA BLOCK E-10 replaced with MARJA BLOCK 9-D,1. Rural,,E-10  ????? ????,3,,,,,TAF
+22014674,674,4. South Western,,27. Helmand,,male,,Musa Qalah,,64.75603,32.3454,2014,,GHARTALA KALAY,1. Rural,,????? ???,9,,,,,TAF
+22014675,675,4. South Western,,27. Helmand,,male,,Musa Qalah,,,,2014,,KAS SHARBAT replaced with Waska,1. Rural,,?? ????,5,,,,,TAF
+22014676,676,4. South Western,,27. Helmand,,female,,Nad Ali,,64.30558,31.63997,2014,,KUROR BAGH CHAH ANJIR,1. Rural,,???? ??? ??? ?????,1,,,,,TAF
+22014677,677,4. South Western,,27. Helmand,,female,,Nad Ali,,64.31096,31.70915,2014,,SULTAN KALAY YA HAJI FAIZULLAH replaced with WAKIL TALIB  WAKIL ZAHIR KALAY,1. Rural,,????? ??? ?? ???? ??? ????,7,,,,,TAF
+22014678,678,4. South Western,,27. Helmand,,female,,Nad Ali,,64.1921,31.60351,2014,,WAKIL ALAULDIN KALAY replaced with SHAGI BILAND DAW,1. Rural,,???? ????????? ???,3,,,,,TAF
+22014679,679,4. South Western,,27. Helmand,,female,,Nad Ali,,64.20925,31.66899,2014,,HAJI PAIR KHAN replaced with NOW ABAD KAKARAN,1. Rural,,???? ??? ???,9,,,,,TAF
+22014680,680,4. South Western,,27. Helmand,,male,,Nad Ali,,64.15023,31.53693,2014,,MIR GANJ 25 FATTIH MOHAMMAD replaced with SULAIMAN KHAIL,1. Rural,,??? ??? 25 ??? ????,5,,,,,TAF
+22014681,681,4. South Western,,27. Helmand,,male,,Nad Ali,,64.34957,31.74635,2014,,GURGAN KALAY,1. Rural,,????? ???,1,,,,,TAF
+22014682,682,4. South Western,,27. Helmand,,male,,Nad Ali,,64.26928,31.69384,2014,,NAQEL ABAD,1. Rural,,???? ????,7,,,,,TAF
+22014683,683,4. South Western,,27. Helmand,,male,,Nad Ali,,64.17774,31.55118,2014,,HAJI ABDULLAH JAN WA HALAM KHAN replaced with BALOCH HA,1. Rural,,???? ??????? ??? ? ??? ???,3,,,,,TAF
+22014684,684,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,,,2014,,KAKARAN JUNOBI replaced with Shamsi Zai,1. Rural,,?????? ?????,9,,,,,TAF
+22014685,685,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.59151,31.81441,2014,,PAYEN QALA replaced with NAHER SARDAR,1. Rural,,????? ????,5,,,,,TAF
+22014686,686,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.54328,31.79383,2014,,PAI YAKHCHAL replaced with SAYIDAN,1. Rural,,??? ?????,1,,,,,TAF
+22014687,687,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.65688,31.68434,2014,,SHAKH POPAL ZAI,1. Rural,,??? ???? ??,7,,,,,TAF
+22014688,688,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.50828,31.64399,2014,,TAK MAKHTAR,1. Rural,,?? ????,3,,,,,TAF
+22014689,689,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.49564,31.76235,2014,,CHAHAR COSA,1. Rural,,???? ????,9,,,,,TAF
+22014690,690,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.56293,31.84174,2014,,ABDUL RAUF SHELA,1. Rural,,???????? ????,5,,,,,TAF
+22014691,691,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.59524,31.81787,2014,,NOOR ZAYE SHAMALY,1. Rural,,??? ???? ?????,1,,,,,TAF
+22014692,692,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.5381,31.841,2014,,BAR SHELA HAJI WAZEER,1. Rural,,?????? ???? ????,7,,,,,TAF
+22014693,693,4. South Western,,27. Helmand,,male,,Nahr-i-saraj,,64.53147,31.79385,2014,,SAR TAKHT,1. Rural,,?????,3,,,,,TAF
+22014694,694,4. South Western,,27. Helmand,,male,,Nahr-i-saraj,,,,2014,,NAZERAN KALAY replaced with Mehmari,1. Rural,,?????? ???,9,,,,,TAF
+22014695,695,4. South Western,,27. Helmand,,female,,Nawa-i-barukzai,,64.27205,31.40044,2014,,SHOR SHARAK LANDI  WIYALA replaced with GUL AQA LAL M.WA MUSSA KALAY,1. Rural,,??? ??? ???? ?????,5,,,,,TAF
+22014696,696,4. South Western,,27. Helmand,,female,,Nawa-i-barukzai,,,,2014,,SULTAN HAJI SANGIN replaced with Mata Khil,1. Rural,,????? ???? ?????,1,,,,,TAF
+22014697,697,4. South Western,,27. Helmand,,female,,Nawa-i-barukzai,,64.3096,31.35327,2014,,SAYYID AQA NOOR WA QAZI KHAIL,1. Rural,,??? ??? ??? ? ???? ???,7,,,,,TAF
+22014698,698,4. South Western,,27. Helmand,,male,,Nawa-i-barukzai,,64.33764,31.47474,2014,,SHOR SHORAK MULLAH MOHAMMAD replaced with NAQELIN GAWHAR GIN,1. Rural,,??? ???? ??? ????,3,,,,,TAF
+22014699,699,4. South Western,,27. Helmand,,male,,Nawa-i-barukzai,,64.28652,31.34038,2014,,SULTAN MOHAMMAD GHULAM NABI,1. Rural,,????? ???? ???? ???,9,,,,,TAF
+22014700,700,4. South Western,,27. Helmand,,male,,Nawa-i-barukzai,,64.31697,31.4741,2014,,NAQELIN SHORA GAZ,1. Rural,,?????? ???? ??,5,,,,,TAF
+22014701,701,4. South Western,,27. Helmand,,male,,Nawzad,,,,2014,,CHAMCHALAK replaced with Ghareban ,1. Rural,,?????,1,,,,,TAF
+22014702,702,4. South Western,,27. Helmand,,male,,Nawzad,,,,2014,,POZI SANG replaced with Garghai,1. Rural,,??????,7,,,,,TAF
+22014703,703,4. South Western,,27. Helmand,,male,,Reg-i-khan Nishin,,,,2014,,Intercept Interviews,1. Rural,,,,,,,,TAF
+22014704,704,4. South Western,,27. Helmand,,male,,Sangin,,64.94289,32.14946,2014,,PAN KALAY JUNOBI replaced with BALO ZAI ,1. Rural,,??? ??? ?????,9,,,,,TAF
+22014705,705,4. South Western,,27. Helmand,,male,,Sangin,,64.8337,32.07215,2014,,MALMONA YA MEHRAN replaced with BAZAR SANGIN,1. Rural,,?????? ?? ?????,5,,,,,TAF
+22014706,706,4. South Western,,27. Helmand,,male,,Sangin,,64.97126,32.19453,2014,,SHOR AB replaced with BARUKZAI,1. Rural,,??? ??,1,,,,,TAF
+22015659,659,4. South Western,,27. Helmand,,female,,2,,64.36075,31.58536,2015,,,,,,,2. Urban,2. Town,345. Lashkar Gah,Sar Kar replaced with Doctor Baqi Chawk,TAF
+22015660,660,4. South Western,,27. Helmand,,female,,2,,64.38126,31.59404,2015,,,,,,,2. Urban,2. Town,345. Lashkar Gah, See Two C-2,TAF
+22015661,661,4. South Western,,27. Helmand,,male,,,,",64.364727",31.59744,2015,,,,,,,2. Urban,2. Town,345. Lashkar Gah,Kamp Mahajerin,TAF
+22015662,662,4. South Western,,27. Helmand,,male,,,,64.3832,31.6112,2015,,,,,,,2. Urban,2. Town,345. Lashkar Gah,See Three C-3,TAF
+22015663,663,4. South Western,,27. Helmand,,female,,2,,,,2015,,,,,,,1. Rural,1. Village,345. Lashkar Gah,HAJI HABIBULLAH replaced with Kariz Aji Abdul Wahid,TAF
+22015664,664,4. South Western,,27. Helmand,,female,,2,,,,2015,,,,,,,1. Rural,1. Village,345. Lashkar Gah,AMANULLAH AMIR replaced with Nazar Mohammad Kariz,TAF
+22015665,665,4. South Western,,27. Helmand,,male,,,,64.35748,31.49695,2015,,,,,,,1. Rural,1. Village,345. Lashkar Gah,BOLANI HAJI MULLAH BALAN replaced with FAQIRANO BIST,TAF
+22015666,666,4. South Western,,27. Helmand,,male,,,,64.39028,31.55757,2015,,,,,,,1. Rural,1. Village,345. Lashkar Gah,DAHI AFGAN replaced with KOCHENI KARAIZ,TAF
+22015667,667,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,343. Baghran,Intercept Interview,TAF
+22015668,668,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,343. Baghran,Intercept Interview,TAF
+22015669,669,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,343. Baghran,Intercept Interview,TAF
+22015670,670,4. South Western,,27. Helmand,,female,,2,,63.97853,30.54585,2015,,,,,,,1. Rural,1. Village,342. Garm Ser,KARAM ZAI HAJI MOHAMMAD NADIR replaced with NAQELEN MIR HAMZA AGHA,TAF
+22015671,671,4. South Western,,27. Helmand,,female,,2,,64.16124,30.93666,2015,,,,,,,1. Rural,1. Village,342. Garm Ser,HAJI MOHAMMAD ALI,TAF
+22015672,672,4. South Western,,27. Helmand,,female,,2,,64.19044,31.09396,2015,,,,,,,1. Rural,1. Village,342. Garm Ser,HAJI KARIM DAD BALOCH replaced with HAJHI WAZER RAHMT KHAN,TAF
+22015673,673,4. South Western,,27. Helmand,,female,,2,,64.11327,30.86633,2015,,,,,,,1. Rural,1. Village,342. Garm Ser,MOHAMMAD OMER KHAN WA NAQEL,TAF
+22015674,674,4. South Western,,27. Helmand,,male,,,,64.07333,30.69466,2015,,,,,,,1. Rural,1. Village,342. Garm Ser,MULLAH RANGIN WA SHAH WALI,TAF
+22015675,675,4. South Western,,27. Helmand,,male,,,,64.04228,30.63556,2015,,,,,,,1. Rural,1. Village,342. Garm Ser,AKHLAS KHAN,TAF
+22015676,676,4. South Western,,27. Helmand,,male,,,,64.17715,30.9489,2015,,,,,,,1. Rural,1. Village,342. Garm Ser,HAJI SHAIR MOHAMMAD KHAN,TAF
+22015677,677,4. South Western,,27. Helmand,,male,,,,64.22726,31.11177,2015,,,,,,,1. Rural,1. Village,342. Garm Ser,SULTAN MOHAMMAD,TAF
+22015678,678,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,344. Kajaki,Intercept Interview,TAF
+22015679,679,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,344. Kajaki,Intercept Interview,TAF
+22015680,680,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,344. Kajaki,Intercept Interview,TAF
+22015681,681,4. South Western,,27. Helmand,,female,,2,,,,2015,,,,,,,1. Rural,1. Village,417. Marjah,MARJA BLOCK 7-D replaced with Asekzo Bulak,TAF
+22015682,682,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,417. Marjah,WAKIL GHULAM MOHAMMAD replaced with Marja Bulak 5-F,TAF
+22015683,683,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,347. Musa Qalah,Intercept Interview,TAF
+22015684,684,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,347. Musa Qalah,Intercept Interview,TAF
+22015685,685,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,347. Musa Qalah,Intercept Interview,TAF
+22015686,686,4. South Western,,27. Helmand,,female,,2,,64.32813,31.71115,2015,,,,,,,1. Rural,1. Village,339. Nad Ali,HAZARA HA,TAF
+22015687,687,4. South Western,,27. Helmand,,female,,2,,64.25288,31.59595,2015,,,,,,,1. Rural,1. Village,339. Nad Ali,GUROP 4,TAF
+22015688,688,4. South Western,,27. Helmand,,female,,2,,64.27197,31.68144,2015,,,,,,,1. Rural,1. Village,339. Nad Ali,KHUDAYDAD KALAY,TAF
+22015689,689,4. South Western,,27. Helmand,,female,,2,,64.23845,31.64215,2015,,,,,,,1. Rural,1. Village,339. Nad Ali,MARKAZI NAD ALI,TAF
+22015690,690,4. South Western,,27. Helmand,,male,,,,64.28779,31.69071,2015,,,,,,,1. Rural,1. Village,339. Nad Ali,SHPAZH JARIBAN,TAF
+22015691,691,4. South Western,,27. Helmand,,male,,,,64.26046,31.65333,2015,,,,,,,1. Rural,1. Village,339. Nad Ali,ZABIR ABAD KALAY replaced with ZARGHON KALAY WAKIL MALANG,TAF
+22015692,692,4. South Western,,27. Helmand,,male,,,,64.21096,31.69825,2015,,,,,,,1. Rural,1. Village,339. Nad Ali,NAW ABAD SAIFON,TAF
+22015693,693,4. South Western,,27. Helmand,,male,,,,64.28599,31.67484,2015,,,,,,,1. Rural,1. Village,339. Nad Ali,AYOUB KALAY replaced with CHAH ANJIR WA SHERBAN,TAF
+22015694,694,4. South Western,,27. Helmand,,female,,2,,,,2015,,,,,,,1. Rural,1. Village,340. Nahr-i-saraj,SHAKH POPAL ZAI replaced with Langar Shah,TAF
+22015695,695,4. South Western,,27. Helmand,,female,,2,,,,2015,,,,,,,1. Rural,1. Village,340. Nahr-i-saraj,HAFIZI replaced with Hazaragan,TAF
+22015696,696,4. South Western,,27. Helmand,,female,,2,,64.56769,31.82195,2015,,,,,,,1. Rural,1. Village,340. Nahr-i-saraj,NAZERAN KALAY replaced with MOHAMMAD ZAI,TAF
+22015697,697,4. South Western,,27. Helmand,,female,,2,,,,2015,,,,,,,1. Rural,1. Village,340. Nahr-i-saraj,WARDAK replaced with Dehmazang,TAF
+22015698,698,4. South Western,,27. Helmand,,male,,,,64.59804,31.71732,2015,,,,,,,1. Rural,1. Village,340. Nahr-i-saraj,ABAZAN,TAF
+22015699,699,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,340. Nahr-i-saraj,TAMBA replaced with Qazian,TAF
+22015700,700,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,340. Nahr-i-saraj,AKHUND ZADA KHAIL replaced with Shila Abdul Rahoof,TAF
+22015701,701,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,340. Nahr-i-saraj,TAKHTEYAN replaced with Hajian,TAF
+22015702,702,4. South Western,,27. Helmand,,female,,2,,,,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,HAYNAK HAJI SANAM,TAF
+22015703,703,4. South Western,,27. Helmand,,female,,2,,64.32627,31.38959,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,JUMA KHAN ABDUL KARIM WA RAMAZAN replaced with KHUDAY NAZAR WA MASOM KHAN,TAF
+22015704,704,4. South Western,,27. Helmand,,female,,2,,64.3096,31.35327,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,SAYYID AQA NOOR WA QAZI KHAIL,TAF
+22015705,705,4. South Western,,27. Helmand,,female,,2,,64.30305,31.34057,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,SAYYID ABAD replaced with GHULAM RASOL,TAF
+22015706,706,4. South Western,,27. Helmand,,female,,2,,64.3298,31.53987,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,HAYNAK,TAF
+22015707,707,4. South Western,,27. Helmand,,female,,2,,64.27205,31.40044,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,SHOR SHORAK MULLAH MOHAMMAD replaced with GUL AQA LAL M.WA MUSSA KALAY,TAF
+22015708,708,4. South Western,,27. Helmand,,female,,2,,64.32618,31.43155,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,ABUULLAH,TAF
+22015709,709,4. South Western,,27. Helmand,,female,,2,,64.17365,31.19432,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,NADIR KHAN,TAF
+22015710,710,4. South Western,,27. Helmand,,female,,2,,64.34115,31.39909,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,KAKARAN WAKIL RAZ MOHAMMAD replaced with NAQELINI BILAK AWAL,TAF
+22015711,711,4. South Western,,27. Helmand,,female,,2,,64.26851,31.35206,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,ABDUL RAUF,TAF
+22015712,712,4. South Western,,27. Helmand,,female,,2,,64.17915,31.20003,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,HASIM KHAN WA KHATIM KHAN,TAF
+22015713,713,4. South Western,,27. Helmand,,female,,2,,64.24804,31.30748,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,ALLAH YAR WA HAJI MOHAMMAD HANIF,TAF
+22015714,714,4. South Western,,27. Helmand,,female,,2,,64.31489,31.44713,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,HAJI MOHAMMAD OMER KHAN,TAF
+22015715,715,4. South Western,,27. Helmand,,female,,2,,64.33764,31.47474,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,NAQELIN GAWHAR GIN,TAF
+22015716,716,4. South Western,,27. Helmand,,female,,2,,64.2565,31.34475,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,HAJI  IBRAHIM,TAF
+22015717,717,4. South Western,,27. Helmand,,female,,2,,64.27452,31.29728,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,HAJI FIYROZ SHAH,TAF
+22015718,718,4. South Western,,27. Helmand,,female,,2,,64.32864,31.40215,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,TA BANDI KHALAJ,TAF
+22015719,719,4. South Western,,27. Helmand,,female,,2,,64.31414,31.37297,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,SOR GUL,TAF
+22015720,720,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,NAW ABAD SAYYID ABAD replaced with SAR PAZHI KHALIFA MOHAMMAD YOUSUF,TAF
+22015721,721,4. South Western,,27. Helmand,,male,,,,64.28652,31.34038,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,SHOR SHARAK PIR MOHAMMAD KALAY replaced with SULTAN MOHAMMAD GHULAM NABI,TAF
+22015722,722,4. South Western,,27. Helmand,,male,,,,64.2752,31.32919,2015,,,,,,,1. Rural,1. Village,341. Nawa-i-barukzai,NAQELIN SHORA GAZ replaced with ABDUL ALI-HAJI MUSSA,TAF
+22015723,723,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,348. Nawzad,Intercept Interview,TAF
+22015724,724,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,348. Nawzad,Intercept Interview,TAF
+22015725,725,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,349. Reg-i-khan Nishin,Intercept Interview,TAF
+22015726,726,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,346. Sangin,Intercept Interview,TAF
+22015727,727,4. South Western,,27. Helmand,,male,,,,,,2015,,,,,,,1. Rural,1. Village,346. Sangin,Intercept Interview,TAF
+22015728,728,4. South Western,,27. Helmand,,male,,,,64.05244,32.00942,2015,,,,,,,1. Rural,1. Village,351. Washer,KARWAN GAH replaced with Intercept Interview,TAF
+22016659,659,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,64.36461,31.60734,2016,,Safyan,2. Urban,2.Town,??????,3,,,,,TAF
+22016660,660,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,Mahlimino Numri,2. Urban,2.Town,??????? ????,9,,,,,TAF
+22016661,661,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,",64.364727",31.59744,2016,,Kamp Mahajerin,2. Urban,2.Town,??? ???????,5,,,,,TAF
+22016662,662,4. South Western,,27. Helmand,,male,,345. Lashkar Gah,,64.35379,31.57356,2016,,Qala Kohna,2. Urban,2.Town,???? ????,1,,,,,TAF
+22016663,663,4. South Western,,27. Helmand,,male,,345. Lashkar Gah,,64.374733,31.597837,2016,,Talibano Numri,2. Urban,2.Town,??????? ????,7,,,,,TAF
+22016664,664,4. South Western,,27. Helmand,,male,,340. Nahr-i-saraj,,,,2016,,Lashkargah,2. Urban,2.Town,,3,,,,,TAF
+22016665,665,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,ABDUL NABI replaced with Lab joi,1. Rural,1. Village,????????,9,,,,,TAF
+22016666,666,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,LALA GUL replaced with Ahmad Shahee Mina,1. Rural,1. Village,??????,5,,,,,TAF
+22016667,667,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,DAKTAR BARID DAD replaced with Kart-e- Lagaan,1. Rural,1. Village,????? ????? ???,1,,,,,TAF
+22016668,668,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,AKBARI KHAZANA DAR replace with Kasaba Deh Haqqani,1. Rural,1. Village,???? ????? ???,7,,,,,TAF
+22016669,669,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,HAJI ABDUL HAMID replaced with C-1,1. Rural,1. Village,???? ?????????,3,,,,,TAF
+22016670,670,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,ABDUL ZAHIR WA KHAN M.KALAY replaced with C-2,1. Rural,1. Village,????????? ? ??? ???? ???,9,,,,,TAF
+22016671,671,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,M. HASHIM KHAN WA WAZIR KHAN KALAY replaced with B-3,1. Rural,1. Village,???? ???? ??? ? ???? ??? ???,5,,,,,TAF
+22016672,672,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,GUL IKHTIYAR replaced with B-2,1. Rural,1. Village,?? ??????,1,,,,,TAF
+22016673,673,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,BAHLOL replaced with 28 family,1. Rural,1. Village,?????,7,,,,,TAF
+22016674,674,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,SHER BANDI replaced with Zol Tod tang,1. Rural,1. Village,??? ????,3,,,,,TAF
+22016675,675,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,BISMULLAH replaced with Nawi Malemeenu Numre,1. Rural,1. Village,??? ????,9,,,,,TAF
+22016676,676,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,JAMAL KALAY HAJI WALI JAN replaced with Mukhtar,1. Rural,1. Village,???? ??? ???? ??? ???,5,,,,,TAF
+22016677,677,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,HAJI FAIZULLAH MOHAMMAD KHAN replaced with DR Baqi Chawk,1. Rural,1. Village,???? ??? ???? ???? ???,1,,,,,TAF
+22016678,678,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,KHUDAY RAHIM WA MASSOM KALAY replaced with Kariz Haji Abdul Wahid ,1. Rural,1. Village,???? ??? ? ????? ???,7,,,,,TAF
+22016679,679,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,64.32399,31.57346,2016,,LAL MOHAMMAD KHAN replaced with TAPA BOLAN,1. Rural,1. Village,??? ???? ???,3,,,,,TAF
+22016680,680,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,ABDUL KARIM  KHAN replaced with Bulan Torjan Kalay,1. Rural,1. Village,????????? ???,9,,,,,TAF
+22016681,681,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,64.3699,31.54724,2016,,AMANULLAH AMIR replaced with NAW ABAD KARAIZ,1. Rural,1. Village,???? ???? ????,5,,,,,TAF
+22016682,682,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,64.3795,31.55261,2016,,HAJI GULAB-NOOR M.YAR MOHAMMAD replaced with MAHAJERIN KOCHNENI KARAIZ,1. Rural,1. Village,???? ???? - ??? ???? ??? ????,1,,,,,TAF
+22016683,683,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,64.39028,31.55757,2016,,CHAR BAGH replaced with KOCHENI KARAIZ,1. Rural,1. Village,??? ???,7,,,,,TAF
+22016684,684,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,MAZOULLAH replaced with Lashkari Bazar ,1. Rural,1. Village,???? ????,3,,,,,TAF
+22016685,685,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,ALI SHER replaced with Zemarai Kala,1. Rural,1. Village,??? ???,9,,,,,TAF
+22016686,686,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,KHUSH DIL KHAN MALANG replaced with Kart-e- Mamorin ,1. Rural,1. Village,????? ??? ????,5,,,,,TAF
+22016687,687,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,MOHAMMAD ZAHIR replaced with Jadi Bust ,1. Rural,1. Village,???? ????,1,,,,,TAF
+22016688,688,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,ABDUL AZIZ replaced with kart-e- malemeen,1. Rural,1. Village,?????????,7,,,,,TAF
+22016689,689,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,SAFID MALOK replaced with Shaheed Ghaltan ,1. Rural,1. Village,???? ????,3,,,,,TAF
+22016690,690,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,HAJI HAMID replaced with Zerahat Numre,1. Rural,1. Village,???? ????,9,,,,,TAF
+22016691,691,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,KHAN KHAIL KALAY replaced with Kart-e-Ariana,1. Rural,1. Village,??? ??? ???,5,,,,,TAF
+22016692,692,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,DOST MOHAMMAD KHAN replaced with Kart-e-Bank,1. Rural,1. Village,???? ???? ???,1,,,,,TAF
+22016693,693,4. South Western,,27. Helmand,,male,,345. Lashkar Gah,,,,2016,,HIJI JAMALUDDIN KHAN replaced with Tang Zakhira,1. Rural,1. Village,???? ???? ????? ???,7,,,,,TAF
+22016694,694,4. South Western,,27. Helmand,,male,,345. Lashkar Gah,,,,2016,,AGHA MOHAMMAD WA KHUDAY RAHM replaced with Haji Nazar Mohammad Kariz,1. Rural,1. Village,??? ???? ? ???? ???,3,,,,,TAF
+22016695,695,4. South Western,,27. Helmand,,male,,340. Nahr-i-saraj,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016696,696,4. South Western,,27. Helmand,,male,,343. Baghran,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016697,697,4. South Western,,27. Helmand,,male,,343. Baghran,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016698,698,4. South Western,,27. Helmand,,male,,350. Dishu,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016699,699,4. South Western,,27. Helmand,,male,,342. Garm Ser,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016700,700,4. South Western,,27. Helmand,,male,,342. Garm Ser,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016701,701,4. South Western,,27. Helmand,,male,,342. Garm Ser,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016702,702,4. South Western,,27. Helmand,,male,,342. Garm Ser,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016703,703,4. South Western,,27. Helmand,,male,,344. Kajaki,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016704,704,4. South Western,,27. Helmand,,male,,344. Kajaki,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016705,705,4. South Western,,27. Helmand,,male,,344. Kajaki,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016706,706,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,HAJI ABDULLAH replaced with Wali Karam,1. Rural,1. Village,???? ???????,5,,,,,TAF
+22016707,707,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,HAJI ABDUL AZIZ WA HAJI GUL  M. replaced with Pir Sabz,1. Rural,1. Village,???? ????????? ? ???? ?? ????,1,,,,,TAF
+22016708,708,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,ABDUL WODOD replaced with Family Tasadi Bast,1. Rural,1. Village,?????????,7,,,,,TAF
+22016709,709,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,KHALIFA ANWAR replaced with nawe Ahmad Shahee Mina,1. Rural,1. Village,????? ????,3,,,,,TAF
+22016710,710,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,KHUSHAK YAR WA KAMAL replaced with Wahidi Mina,1. Rural,1. Village,???? ??? ? ????,9,,,,,TAF
+22016711,711,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,2016,,HAJI HABIBULLAH replaced with Lashkari Bazar Gharbi,1. Rural,1. Village,???? ???? ????,5,,,,,TAF
+22016712,712,4. South Western,,27. Helmand,,male,,417. Marjah,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016713,713,4. South Western,,27. Helmand,,male,,347. Musa Qalah,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016714,714,4. South Western,,27. Helmand,,male,,347. Musa Qalah,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016715,715,4. South Western,,27. Helmand,,male,,339. Nad Ali,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016716,716,4. South Western,,27. Helmand,,male,,339. Nad Ali,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016717,717,4. South Western,,27. Helmand,,male,,339. Nad Ali,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016718,718,4. South Western,,27. Helmand,,male,,339. Nad Ali,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016719,719,4. South Western,,27. Helmand,,male,,340. Nahr-i-saraj,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016720,720,4. South Western,,27. Helmand,,male,,340. Nahr-i-saraj,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016721,721,4. South Western,,27. Helmand,,male,,340. Nahr-i-saraj,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016722,722,4. South Western,,27. Helmand,,male,,341. Nawa-i-barukzai,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016723,723,4. South Western,,27. Helmand,,male,,341. Nawa-i-barukzai,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016724,724,4. South Western,,27. Helmand,,male,,341. Nawa-i-barukzai,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016725,725,4. South Western,,27. Helmand,,male,,341. Nawa-i-barukzai,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016726,726,4. South Western,,27. Helmand,,male,,348. Nawzad,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016727,727,4. South Western,,27. Helmand,,male,,348. Nawzad,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016728,728,4. South Western,,27. Helmand,,male,,349. Reg-i-khan Nishin,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016729,729,4. South Western,,27. Helmand,,male,,346. Sangin,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016730,730,4. South Western,,27. Helmand,,male,,346. Sangin,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016731,731,4. South Western,,27. Helmand,,male,,346. Sangin,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+22016732,732,4. South Western,,27. Helmand,,male,,351. Washer,,,,2016,,Intercept Interview,1. Rural,1. Village,,,,,,,TAF
+35227,227,4. South Western,,27. Helmand,,female,,Lashkar Gah,,64.3889,31.6023,5,2. Town,Kasaba De Haqani,,,,,,,,,Futures
+35228,228,4. South Western,,27. Helmand,,male,,Lashkar Gah,,64.374733,31.597837,5,2. Town,Talibano Numri,,,,,,,,,Futures
+35229,229,4. South Western,,27. Helmand,,female,,Lashkar Gah,,64.311,31.6617,5,1. Village,M.YOUSAF HAJI M.KARAM KHAN,,,,,,,,,Futures
+35230,230,4. South Western,,27. Helmand,,male,,Lashkar Gah,,64.42342,31.6953,5,1. Village,KAC,,,,,,,,,Futures
+35231,231,4. South Western,,27. Helmand,,male,,Musa Qalah,,64.75426,32.33433,5,1. Village,DAND,,,,,,,,,Futures
+35232,232,4. South Western,,27. Helmand,,female,,Nad Ali,,64.11743,31.55463,5,1. Village,AYOUB KALAY,,,,,,,,,Futures
+35233,233,4. South Western,,27. Helmand,,female,,Nad Ali,,64.28599,31.67484,5,1. Village,CHAH ANJIR WA SHERBAN,,,,,,,,,Futures
+35234,234,4. South Western,,27. Helmand,,female,,Nad Ali,,64.15023,31.53693,5,1. Village,SULAIMAN KHAIL,,,,,,,,,Futures
+35235,235,4. South Western,,27. Helmand,,female,,Nad Ali,,64.09269,31.54954,5,1. Village,MULLAH ALLAH DAD,,,,,,,,,Futures
+35236,236,4. South Western,,27. Helmand,,male,,Nad Ali,,64.31091,31.67425,5,1. Village,CHAH ANJIR JUNOBI,,,,,,,,,Futures
+35237,237,4. South Western,,27. Helmand,,female,,Nahr-i-saraj,,64.49648,31.756,5,1. Village,AKHUND ZADA KHAIL,,,,,,,,,Futures
+35238,238,4. South Western,,27. Helmand,,male,,Nahr-i-saraj,,64.75614,32.00306,5,1. Village,KARAIZ KHALIFA,,,,,,,,,Futures
+35239,239,4. South Western,,27. Helmand,,female,,Nawa-i-barukzai,,64.28652,31.34038,5,1. Village,SULTAN MOHAMMAD GHULAM NABI,,,,,,,,,Futures
+35240,240,4. South Western,,27. Helmand,,female,,Nawa-i-barukzai,,64.27517,31.33674,5,1. Village,KHATIM KHAN,,,,,,,,,Futures
+35241,241,4. South Western,,27. Helmand,,male,,Nawa-i-barukzai,,64.36558,31.42811,5,1. Village,PAY KALAY NIGAHRIN,,,,,,,,,Futures
+35242,242,4. South Western,,27. Helmand,,male,,Nawa-i-barukzai,,64.3028,31.37336,5,1. Village,DASTAGIR GHULAM SULTAN ZAY,,,,,,,,,Futures
+35243,243,4. South Western,,27. Helmand,,male,,Nawzad,,64.47777,32.38297,5,1. Village,QARGHI,,,,,,,,,Futures
+35244,244,4. South Western,,27. Helmand,,male,,Sangin,,64.9759,32.1876,5,1. Village,SHAIKH MOHAMMADI,,,,,,,,,Futures
+37175,175,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,64.371214,31.592574,7,,Chehel Metera Awala,2. Urban,2. Town,??? ???? ????,1,,,,,Futures
+37176,176,4. South Western,,27. Helmand,,male,,345. Lashkar Gah,,64.377823,31.572539,7,,Kochnai Kariz,2. Urban,2. Town,????? ?????,6,,,,,Futures
+37177,177,4. South Western,,27. Helmand,,female,,342. Garm Ser,,64.20403,31.07662,7,,HAJI WAZER,1. Rural,1. Rural,???? ????,1,,,,,Futures
+37178,178,4. South Western,,27. Helmand,,male,,342. Garm Ser,,64.07267,30.68242,7,,MOHAMMAD OMER WA HAJI M.AKBER,1. Rural,1. Rural,???? ??? ? ???? ???? ????,6,,,,,Futures
+37179,179,4. South Western,,27. Helmand,,male,,344. Kajaki,,,,7,,SAR GINAK WA GAW DOZD replaced with Kajaki Ya Maktab,1. Rural,1. Rural,?????? ? ??????,1,,,,,Futures
+37180,180,4. South Western,,27. Helmand,,female,,339. Nad Ali,,64.31867,31.69494,7,,HAJI ALO GUL KALAY,1. Rural,1. Rural,???? ????? ???,6,,,,,Futures
+37181,181,4. South Western,,27. Helmand,,male,,339. Nad Ali,,64.35456,31.7387,7,,LALA KALAY,1. Rural,1. Rural,???? ???,1,,,,,Futures
+37182,182,4. South Western,,27. Helmand,,female,,340. Nahr-i-saraj,,64.5461,31.80252,7,,JAMAL KHAN,1. Rural,1. Rural,???? ???,6,,,,,Futures
+37183,183,4. South Western,,27. Helmand,,female,,340. Nahr-i-saraj,,64.75352,31.93269,7,,MIYAN QALA,1. Rural,1. Rural,???? ????,1,,,,,Futures
+37184,184,4. South Western,,27. Helmand,,female,,340. Nahr-i-saraj,,64.59011,31.67243,7,,YAK LANG,1. Rural,1. Rural,?? ???,6,,,,,Futures
+37185,185,4. South Western,,27. Helmand,,female,,340. Nahr-i-saraj,,64.55604,31.81024,7,,DIHMAZAG SHARQI,1. Rural,1. Rural,?????? ????,1,,,,,Futures
+37186,186,4. South Western,,27. Helmand,,male,,340. Nahr-i-saraj,,64.76749,31.95478,7,,PAYEN QALA,1. Rural,1. Rural,????? ????,6,,,,,Futures
+37187,187,4. South Western,,27. Helmand,,male,,346. Sangin,,64.85297,32.07237,7,,NAWI DASHTYAN,1. Rural,1. Rural,??? ??????,1,,,,,Futures
+37188,188,4. South Western,,27. Helmand,,male,,346. Sangin,,,,7,,KARIM KARAIZ replaced with Bostanzai,1. Rural,1. Rural,???? ?????,6,,,,,Futures
+38115,115,4. South Western,,27. Helmand,,F,,345. Lashkar Gah,,64.36461,31.60734,8,,Safyan,2. Urban,,??????,3,,,,,Futures
+38116,116,4. South Western,,27. Helmand,,M,,345. Lashkar Gah,,",64.364727",31.59744,8,,Kamp Mahajerin,2. Urban,,??? ???????,1,,,,,Futures
+38117,117,4. South Western,,27. Helmand,,F,,345. Lashkar Gah,,64.31456,31.64997,8,,HAJI SHER MOHAMMAD,1. Rural,,???? ??? ????,9,,,,,Futures
+38118,118,4. South Western,,27. Helmand,,M,,345. Lashkar Gah,,64.34832,31.51379,8,,FAQIRANO KALAY KARAIZ,1. Rural,,??????? ??? ?????,7,,,,,Futures
+38119,119,4. South Western,,27. Helmand,,F,,342. Garm Ser,,64.18729,31.12377,8,,HAJI MOHAMMAD AMIN WA MAJNON,1. Rural,,???? ???? ???? ? ?????,5,,,,,Futures
+38120,120,4. South Western,,27. Helmand,,M,,342. Garm Ser,,64.14592,30.88909,8,,SHAD MIR,1. Rural,,??? ???,3,,,,,Futures
+38121,121,4. South Western,,27. Helmand,,F,,339. Nad Ali,,64.13596,31.53195,8,,ALLAH DAD WA HABIBULLAH KALAY,1. Rural,,???? ??? ? ???? ???? ???,1,,,,,Futures
+38122,122,4. South Western,,27. Helmand,,M,,339. Nad Ali,,64.21257,31.59211,8,,NOW ABAD KHUSHMAL KALAY,1. Rural,,?????? ?????? ???,9,,,,,Futures
+39119,119,4. South Western,,27. Helmand,,female,,340. Nahr-i-saraj,,,,9,,,2. Urban,,,5,,,,,Futures
+39120,120,4. South Western,,27. Helmand,,male,,340. Nahr-i-saraj,,,,9,,,2. Urban,,,3,,,,,Futures
+39121,121,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,64.34668,31.52663,9,,KHAIRULAH KALAY,1. Rural,,??????? ???,1,,,,,Futures
+39122,122,4. South Western,,27. Helmand,,male,,345. Lashkar Gah,,64.39028,31.55757,9,,KOCHENI KARAIZ,1. Rural,,????? ?????,9,,,,,Futures
+39123,123,4. South Western,,27. Helmand,,female,,339. Nad Ali,,64.38158,31.73537,9,,WAKIL ABDUL HIMAD KALAY,1. Rural,,???? ????????? ???,7,,,,,Futures
+39124,124,4. South Western,,27. Helmand,,male,,339. Nad Ali,,64.14593,31.51436,9,,NAW ABAD MAWLAWI BAHAWUDIN,1. Rural,,?????? ????? ????????,5,,,,,Futures
+39125,125,4. South Western,,27. Helmand,,female,,341. Nawa-i-barukzai,,64.32627,31.38959,9,,KHUDAY NAZAR WA MASOM KHAN,1. Rural,,???? ??? ? ????? ???,3,,,,,Futures
+39126,126,4. South Western,,27. Helmand,,male,,341. Nawa-i-barukzai,,64.24347,31.28446,9,,SAYYID MALANG KALAY,1. Rural,,??? ???? ???,1,,,,,Futures
+310113,113,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,64.357567,31.532092,10,,Qala Bust,2. Urban,,???? ???,7,,,,,Futures
+310114,114,4. South Western,,27. Helmand,,male,,345. Lashkar Gah,,64.374733,31.597837,10,,Talibano Numri,2. Urban,,??????? ????,5,,,,,Futures
+310115,115,4. South Western,,27. Helmand,,female,,345. Lashkar Gah,,,,10,,BAHLOL replaced with Safyan,1. Rural,,??????,3,,,,,Futures
+310116,116,4. South Western,,27. Helmand,,male,,345. Lashkar Gah,,,,10,,M.YOUSAF HAJI M.KARAM KHAN replaced with Wahedi Meena,1. Rural,,?????? ????,1,,,,,Futures
+310117,117,4. South Western,,27. Helmand,,male,,342. Garm Ser,,64.1648,31.08468,10,,HAJI NIHMATULLAH,1. Rural,,???? ???? ????,9,,,,,Futures
+310118,118,4. South Western,,27. Helmand,,female,,340. Nahr-i-saraj,,64.50828,31.64399,10,,TAK MAKHTAR,1. Rural,,?? ????,7,,,,,Futures
+310119,119,4. South Western,,27. Helmand,,female,,340. Nahr-i-saraj,,,,10,,HAJI KASHMIR KHAN replaced with Norzai Jenobi,1. Rural,,????? ?????,5,,,,,Futures
+310120,120,4. South Western,,27. Helmand,,male,,340. Nahr-i-saraj,,64.55473,31.83549,10,,MEYANA QAZIIYAN,1. Rural,,???? ??????,3,,,,,Futures
